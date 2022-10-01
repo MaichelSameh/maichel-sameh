@@ -14,12 +14,12 @@ body {
 }
 
 a {
-  color: #d43076;
+  color: #0a0a7a;
   text-decoration: none;
 }
 
 a:hover {
-  color: #dd5a92;
+  color: #2d2d77;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 9999;
-  background: #d43076;
+  background: #0a0a7a;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #db528c;
+  background: #4b4bc7;
   color: #fff;
 }
 
@@ -148,7 +148,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 .navbar .dropdown ul {
@@ -183,7 +183,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 .navbar .dropdown:hover>ul {
@@ -282,7 +282,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 .navbar-mobile .getstarted,
@@ -317,7 +317,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -360,7 +360,7 @@ h6 {
 
 #hero .btn-get-started:hover {
   padding-top: 10px;
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 @media (min-width: 1024px) {
@@ -412,7 +412,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #d43076;
+  background: #0a0a7a;
   bottom: 0;
   left: 0;
 }
@@ -578,14 +578,14 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #fbeaf1;
+  background: #a6acb93e;
 }
 
 .skills .progress-bar {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #dd5a92;
+  background-color: #0e46b6;
 }
 
 /*--------------------------------------------------------------
@@ -603,7 +603,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #d43076;
+  border-left: 2px solid #0a0a7a;
   position: relative;
 }
 
@@ -622,6 +622,22 @@ section {
   display: inline-block;
   font-weight: 400;
   margin-bottom: 10px;
+  font-family: "Poppins", sans-serif;
+}
+
+.resume .resume-item .job-company {
+  font-size: 14;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+}
+
+.resume .resume-item .job-role {
+  font-size: 12;
+  font-style: italic;
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-top: 5px;
   font-family: "Poppins", sans-serif;
 }
 
@@ -646,7 +662,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #d43076;
+  border: 2px solid #0a0a7a;
 }
 
 /*--------------------------------------------------------------
@@ -676,7 +692,7 @@ section {
 }
 
 .services .icon-box:hover::before {
-  background: #d43076;
+  background: #0a0a7a;
   height: 100%;
   border-radius: 0px;
 }
@@ -689,7 +705,7 @@ section {
   border-radius: 50%;
   width: 60px;
   height: 60px;
-  background: #d43076;
+  background: #0a0a7a;
   transition: all 0.3s ease-in-out;
 }
 
@@ -725,7 +741,7 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 @media (max-width: 768px) {
@@ -767,7 +783,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #d43076;
+  color: #0a0a7a;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -879,11 +895,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d43076;
+  border: 1px solid #0a0a7a;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d43076;
+  background-color: #0a0a7a;
 }
 
 .portfolio-details .portfolio-info {
@@ -1000,11 +1016,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #d43076;
+  border: 1px solid #0a0a7a;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d43076;
+  background-color: #0a0a7a;
 }
 
 @media (max-width: 767px) {
@@ -1126,11 +1142,11 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #d43076;
+  border-color: #0a0a7a;
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #d43076;
+  background: #0a0a7a;
   border: 0;
   padding: 10px 24px;
   color: #fff;
