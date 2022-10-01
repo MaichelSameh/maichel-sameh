@@ -755,6 +755,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  /* cursor: pointer; */
 }
 
 .portfolio #portfolio-flters {
@@ -786,6 +787,23 @@ section {
   color: #0a0a7a;
 }
 
+.resume-item .ball {
+  width: 16px;
+  height: 16px;
+  border: 2px solid #0a0a7a;
+  border-radius: 9999px;
+  margin-right: 8px;
+  margin-bottom: 4px;
+}
+
+.resume-item .ball.full {
+  background-color: #0a0a7a;
+}
+
+p.language-level {
+  font-size: 12px;
+}
+
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
@@ -795,6 +813,12 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  width: 95%;
+  border-radius: 15px;
+}
+
+.portfolio .portfolio-wrap img{
+  aspect-ratio: 1;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -819,6 +843,7 @@ section {
   text-align: center;
   z-index: 3;
   transition: all ease-in-out 0.3s;
+  padding: 30px;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
@@ -830,7 +855,13 @@ section {
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #ffffff;
   font-size: 14px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; 
+          line-clamp: 3; 
+  text-overflow: clip;
   text-transform: uppercase;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
