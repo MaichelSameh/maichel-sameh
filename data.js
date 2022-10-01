@@ -11,7 +11,7 @@ const projects = [
         -offline cart<br>
         -online payment<br>
         -ads`,
-        "main-media-url": "assets/img/portfolio/brandy-one.png"
+        "main-media-url": "assets/img/portfolio/brandy-one.jpg"
     },
     {
         "id": "sa-dan",
@@ -19,7 +19,7 @@ const projects = [
         "title": "Sa-dan",
         "description": `Sa-dan is an online app to browse daily home needs.<br><br>
         From this app, you can browse restaurants, shops, supermarkets, or any other type of shop.`,
-        "main-media-url": "assets/img/portfolio/sa-dan.png"
+        "main-media-url": "assets/img/portfolio/sa-dan.jpg"
     },
     {
         "id": "black-point",
@@ -30,7 +30,7 @@ const projects = [
         Where is the secure or most famous platform to shop an Abaya? Simply NO.<br>
         <br>
         This was the idea of the client, creating a secure, famous, easy-to-reach platform to pay or shop all the abayat.`,
-        "main-media-url": "assets/img/portfolio/black-point.png"
+        "main-media-url": "assets/img/portfolio/black-point.jpg"
     },
     {
         "id": "entaji",
@@ -44,14 +44,14 @@ const projects = [
         - online payment<br>
         - seller dashboard<br>
         - wishlist`,
-        "main-media-url": "assets/img/portfolio/entaji.png"
+        "main-media-url": "assets/img/portfolio/entaji.jpg"
     },
     {
         "id": "island-auto",
         "filter": "app",
         "title": "Island auto",
         "description": ``,
-        "main-media-url": "assets/img/portfolio/island-auto.png"
+        "main-media-url": "assets/img/portfolio/island-auto.jpg"
     },
     {
         "id": "my-boarding",
@@ -64,7 +64,7 @@ const projects = [
         <br>
         Want to check the weather and the currency in the other country?<br>
         Open the app and search for the country, you got the weather, go to the Currencies section, select the currency you want, and you got the currency for the other country :)`,
-        "main-media-url": "assets/img/portfolio/my-boarding.png"
+        "main-media-url": "assets/img/portfolio/my-boarding.jpg"
     },
     {
         "id": "submit",
@@ -73,7 +73,7 @@ const projects = [
         "description": `
         E-learning application for universities.<br>
         The app uses the video streaming feature so that the professors can upload their lessons and courses to all the students`,
-        "main-media-url": "assets/img/portfolio/submit-edu.png"
+        "main-media-url": "assets/img/portfolio/submit-edu.jpg"
     },
 ];
 
@@ -84,7 +84,7 @@ const testimonial = [
         "role": "Software Engineer",
     },
     {
-        "name": "Moussa gerges",
+        "name": "Moussa Gerges",
         "testimonial": "I am very glad to have worked with you Maichel on a multidisciplinary project to develop mobile applications and connect them to my IOT project via secure APIs. You have been very serious and punctual, so I hope to work together again soon.",
         "role": "IOT Developer",
     },
