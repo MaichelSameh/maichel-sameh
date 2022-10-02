@@ -129,3 +129,30 @@ const jobs = [
         ],
     },
 ];
+
+const languages = [
+    {
+        "language": "Arabic",
+        "level": "C1",
+        "level-in-number": 5,
+    },
+    {
+        "language": "English",
+        "level": "B2",
+        "level-in-number": 4,
+    },
+    {
+        "language": "Italian",
+        "level": "B2",
+        "level-in-number": 4,
+    },
+]
+
+const languageLeveLText = {
+    "C2": "mastered English",
+    "C1": "Mother language",
+    "B2": "Professional Working Proficiency",
+    "B1": "intermediate",
+    "A2": "corresponds to basic users",
+    "A1": "basic users of the language",
+}
