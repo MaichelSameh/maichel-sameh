@@ -11,7 +11,10 @@ const projects = [
         -offline cart<br>
         -online payment<br>
         -ads`,
-        "main-media-url": "assets/img/portfolio/brandy-one.jpg"
+        "main-media-url": "assets/img/portfolio/brandy-one.jpg",
+        "media-url": ["assets/img/portfolio/brandy-one.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
     },
     {
         "id": "sa-dan",
@@ -19,7 +22,10 @@ const projects = [
         "title": "Sa-dan",
         "description": `Sa-dan is an online app to browse daily home needs.<br><br>
         From this app, you can browse restaurants, shops, supermarkets, or any other type of shop.`,
-        "main-media-url": "assets/img/portfolio/sa-dan.jpg"
+        "main-media-url": "assets/img/portfolio/sa-dan.jpg",
+        "media-url": ["assets/img/portfolio/sa-dan.jpg",],
+        "category": "App development",
+        "client": "Khalij",
     },
     {
         "id": "black-point",
@@ -30,7 +36,10 @@ const projects = [
         Where is the secure or most famous platform to shop an Abaya? Simply NO.<br>
         <br>
         This was the idea of the client, creating a secure, famous, easy-to-reach platform to pay or shop all the abayat.`,
-        "main-media-url": "assets/img/portfolio/black-point.jpg"
+        "main-media-url": "assets/img/portfolio/black-point.jpg",
+        "media-url": ["assets/img/portfolio/black-point.jpg",],
+        "category": "App development",
+        "client": "Khalij",
     },
     {
         "id": "entaji",
@@ -44,14 +53,20 @@ const projects = [
         - online payment<br>
         - seller dashboard<br>
         - wishlist`,
-        "main-media-url": "assets/img/portfolio/entaji.jpg"
+        "main-media-url": "assets/img/portfolio/entaji.jpg",
+        "media-url": ["assets/img/portfolio/entaji.jpg",],
+        "category": "App development",
+        "client": "Khalij",
     },
     {
         "id": "island-auto",
         "filter": "app",
         "title": "Island auto",
         "description": ``,
-        "main-media-url": "assets/img/portfolio/island-auto.jpg"
+        "main-media-url": "assets/img/portfolio/island-auto.jpg",
+        "media-url": ["assets/img/portfolio/island-auto.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
     },
     {
         "id": "my-boarding",
@@ -64,7 +79,10 @@ const projects = [
         <br>
         Want to check the weather and the currency in the other country?<br>
         Open the app and search for the country, you got the weather, go to the Currencies section, select the currency you want, and you got the currency for the other country :)`,
-        "main-media-url": "assets/img/portfolio/my-boarding.jpg"
+        "main-media-url": "assets/img/portfolio/my-boarding.jpg",
+        "media-url": ["assets/img/portfolio/my-boarding.jpg,"],
+        "category": "App development",
+        "client": "Mix-Code",
     },
     {
         "id": "submit",
@@ -73,7 +91,10 @@ const projects = [
         "description": `
         E-learning application for universities.<br>
         The app uses the video streaming feature so that the professors can upload their lessons and courses to all the students`,
-        "main-media-url": "assets/img/portfolio/submit-edu.jpg"
+        "main-media-url": "assets/img/portfolio/submit-edu.jpg",
+        "media-url": ["assets/img/portfolio/submit-edu.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
     },
 ];
 

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Portfolio Details - Lonely Bootstrap Template</title>
+  <title>Maichel Sameh</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -40,9 +40,11 @@
 
   <script src="./data.js"></script>
   <script>
-    var url_string = window.location;
-    var url = new URL(url_string);
-    var projectId = url.searchParams.get("project-id");
+    let url_string = window.location;
+    let url = new URL(url_string);
+    let projectId = url.searchParams.get("project-id");
+    let project =  projects.find( o => o.id == projectId);
+    console.log(project);
   </script>
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex align-items-center">
@@ -56,12 +58,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto " href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#resume">Resume</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto " href="./index.html">Home</a></li>
+          <li><a class="nav-link scrollto" href="./index.html#about">About</a></li>
+          <li><a class="nav-link scrollto" href="./index.html#resume">Resume</a></li>
+          <li><a class="nav-link scrollto" href="./index.html#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="./index.html#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -76,12 +77,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Portfolio Details</h2>
-          <ol>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li>Portfolio Details</li>
-          </ol>
+          <script>
+            document.write(`<h2>${project.title}</h2>`)
+          </script>
+          
         </div>
 
       </div>
@@ -96,18 +95,15 @@
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-1.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-2.jpg" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-3.jpg" alt="">
-                </div>
+                <script>
+                  for(let i = 0; i < project["media-url"].length ;i++) {
+                    document.write(`
+                    <div class="swiper-slide">
+                      <img src="${project["media-url"][i]}" alt="${project["media-url"][i]}">
+                    </div>
+                `)
+                  }
+                </script>
 
               </div>
               <div class="swiper-pagination"></div>
@@ -118,20 +114,20 @@
             <div class="portfolio-info">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Web design</li>
-                <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <script>
+                  document.write(`<li><strong>Category</strong>: ${project["category"]}</li>`);
+                  document.write(`<li><strong>Client</strong>: ${project["client"]}</li>`);
+                  // document.write(`<li><strong>Project date</strong>: ${project["category"]}</li>`);
+                  // document.write(`<li><strong>Project URL</strong>: ${project["category"]}</li>`);
+                </script>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>Details</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia.
-                Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia
-                accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt
-                eius.
-              </p>
+                <script>
+                  document.write(project["description"]);
+                </script>
             </div>
           </div>
 
@@ -146,14 +142,8 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Lonely</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-lonely/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        &copy; Copyright <strong><span>Micheal</span></strong>
+        <script>document.write(new Date().getFullYear())</script>. All Rights Reserved
       </div>
     </div>
   </footer><!-- End  Footer -->
