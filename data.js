@@ -15,6 +15,11 @@ const projects = [
         "media-url": ["assets/img/portfolio/brandy-one.jpg",],
         "category": "App development",
         "client": "Mix-Code",
+        "app-links": {
+            "google-play": "",
+            "app-store": "https://apps.apple.com/us/app/brandyone/id1642609987",
+        },
+        "duration": "1 Month",
     },
     {
         "id": "sa-dan",
@@ -26,6 +31,11 @@ const projects = [
         "media-url": ["assets/img/portfolio/sa-dan.jpg",],
         "category": "App development",
         "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.sadan",
+            "app-store": "",
+        },
+        "duration": "1 Month",
     },
     {
         "id": "black-point",
@@ -40,12 +50,17 @@ const projects = [
         "media-url": ["assets/img/portfolio/black-point.jpg",],
         "category": "App development",
         "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.blackpoint.shop",
+            "app-store": "https://apps.apple.com/us/app/bblackpoint/id1634965735",
+        },
+        "duration": "1 Month",
     },
     {
         "id": "entaji",
         "filter": "app",
         "title": "Entaji",
-        "description": `Project description
+        "description": `
         A complete E-commerce platform based in Saudi Arabia.<br>
         App feature:<br>
         - shopping<br>
@@ -57,6 +72,11 @@ const projects = [
         "media-url": ["assets/img/portfolio/entaji.jpg",],
         "category": "App development",
         "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.entaji.souq",
+            "app-store": "https://apps.apple.com/us/app/entaj/id1641259639",
+        },
+        "duration": "1 Month",
     },
     {
         "id": "island-auto",
@@ -67,6 +87,11 @@ const projects = [
         "media-url": ["assets/img/portfolio/island-auto.jpg",],
         "category": "App development",
         "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.island.auto",
+            "app-store": "https://apps.apple.com/us/app/car-mro/id1621338628",
+        },
+        "duration": "1 Month",
     },
     {
         "id": "my-boarding",
@@ -83,6 +108,11 @@ const projects = [
         "media-url": ["assets/img/portfolio/my-boarding.jpg,"],
         "category": "App development",
         "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.myboarding.weather",
+            "app-store": "https://apps.apple.com/eg/app/my-boarding/id1637631752",
+        },
+        "duration": "10 days",
     },
     {
         "id": "submit",
@@ -95,6 +125,48 @@ const projects = [
         "media-url": ["assets/img/portfolio/submit-edu.jpg",],
         "category": "App development",
         "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.submit.edu",
+            "app-store": "https://apps.apple.com/us/app/submit/id1640553923",
+        },
+        "duration": "1 Month",
+    },
+    {
+        "id": "real-attend",
+        "filter": "app",
+        "title": "Real attend",
+        "description": `
+        An attendance app to register and control any company size.<br>
+        In this application, there are two main sections manager section and the employee section.<br>
+        The manager has the same advantages as an employee with some extra abilities to control the employees in his department.<br>
+        In brief, an employee can:<br>
+        -Authenticate<br>
+        -Register his attendance<br>
+        -Finish his work<br>
+        -Receive push notification when a request is updated<br>
+        -Ask for vacation<br>
+        -Request new permission<br>
+        -Send reports to the manager and the company<br>
+        -Get all his activities on a particular day<br>
+        -Change his profile picture<br>
+        -Get a brief about his job in a certain period<br>
+        -Create a new client visit(if he is a salesman)<br><br>
+        The extra advantages for a manager:<br>
+        -Accept or reject a permission/vacation request<br>
+        -Can keep tracking of all his employee's progress<br>
+        -Can see all the other employees and managers in his department<br>
+        -See other employee's reports-Check each day attendance with its state(who was on vacation, present, absent, or even in delay)<br>
+        -Receive notifications when other employees ask for permission
+        `,
+        "main-media-url": "assets/img/portfolio/real-attend.png",
+        "media-url": ["assets/img/portfolio/real-attend.png",],
+        "category": "App development",
+        "client": "Arab Badia",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.arabbadia.attendance_app",
+            "app-store": "https://apps.apple.com/eg/app/real-attend/id1599098078",
+        },
+        "duration": "3 Month",
     },
 ];
 
@@ -176,4 +248,34 @@ const languageLeveLText = {
     "B1": "intermediate",
     "A2": "corresponds to basic users",
     "A1": "basic users of the language",
+}
+
+const generalData = {
+    "about": `
+    Hi, here is Micheal Sameh a mid-level Flutter developer from Egypt, Cairo.
+    <br>
+    <br>
+    Micheal is a hard worker with excellent time management who can fit deadlines. Using this skill Micheal
+    is able to work while he is still a student in the first year of the university.
+    <br>
+    <br>
+    Micheal has developed various applications for many companies in different areas, not only static apps
+    or locally stored applications but also applications that utilize API and real-time.
+    <br>
+    <br>
+    Micheal has a lot of experience not only with APIs but also with firebase and NoSQL databases.
+    <br>
+    <br>
+    Micheal is a talented person that has a dream, he wants to gain knowledge and experience so that he can
+    help others develop their dream business or software.
+    <br>
+    <br>
+    Don't miss the chance to get in touch :)
+    <br>`,
+    "email": "maichel.sameh.contact@gmail.com",
+    "address": "First 6th of October, Giza Governorate",
+    "location": "https://www.google.com/maps/@29.9568559,30.9302598,15z",
+    "phone": "+201205082038",
+    "linkedin": "https://www.linkedin.com/in/maichel-sameh/",
+    "github": "https://github.com/MaichelSameh"
 }

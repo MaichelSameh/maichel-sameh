@@ -60,7 +60,6 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#resume">Resume</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
@@ -82,26 +81,9 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3>About Micheal</h3>
               <p>
-                Hi, here is Micheal Sameh a mid-level Flutter developer from Egypt, Cairo.
-                <br>
-                <br>
-                Micheal is a hard worker with excellent time management who can fit deadlines. Using this skill Micheal
-                is able to work while he is still a student in the first year of the university.
-                <br>
-                <br>
-                Micheal has developed various applications for many companies in different areas, not only static apps
-                or locally stored applications but also applications that utilize API and real-time.
-                <br>
-                <br>
-                Micheal has a lot of experience not only with APIs but also with firebase and NoSQL databases.
-                <br>
-                <br>
-                Micheal is a talented person that has a dream, he wants to gain knowledge and experience so that he can
-                help others develop their dream business or software.
-                <br>
-                <br>
-                Don't miss the chance to get in touch :)
-                <br>
+                <script>
+                  document.write(generalData["about"]);
+                </script>
               </p>
               <div class="row">
                 <div class="col-md-6 d-md-flex align-items-md-stretch">
@@ -221,9 +203,9 @@
                       <div class="column">
                         <div class="d-flex">
                     `);
-                    console.log(languages[i]["level-in-number"]);
+                console.log(languages[i]["level-in-number"]);
                 for (let x = 0; x < 6; x++) {
-                  if (x  < languages[i]["level-in-number"]) {
+                  if (x < languages[i]["level-in-number"]) {
                     document.write(`<div class="ball full"></div>`);
                   } else {
                     document.write(`<div class="ball"></div>`);
@@ -324,14 +306,14 @@
           <h2>Portfolio</h2>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-app">App</li>
             </ul>
           </div>
-        </div>
+        </div> -->
 
         <div class="row portfolio-container">
 
@@ -339,7 +321,7 @@
             for (let i = 0; i < projects.length; i++) {
               document.write(`<a href="portfolio-details.html?project-id=${projects[i]["id"]}">`);
               document.write(`
-                  <div class="col-lg-4 col-md-6 portfolio-item filter-${projects[i]["filter"]}">
+                  <div class="col-lg-4 col-md-6  portfolio-item filter-${projects[i]["filter"]}">
                     <div class="portfolio-wrap">
                 `);
               document.write(`<img src="${projects[i]["main-media-url"]}" class="img-fluid" alt="${projects[i]["title"]}">`);
@@ -418,33 +400,56 @@
             <div class="contact-about">
               <h3>Micheal</h3>
               <div class="social-links">
-                <a href="https://www.linkedin.com/in/maichel-sameh/" class="" target="_blank"><i
-                    class="bi bi-linkedin"></i></a>
-                <a href="https://github.com/MichealSameh" class="" target="_blank"><i class="bi bi-github"></i></a>
+                <script>
+                  document.write(`<a href="${generalData.linkedin}" class="" target="_blank">`)
+                </script>
+                <i class="bi bi-linkedin"></i></a>
+                <script>
+                  document.write(`<a href="${generalData.github}" class="" target="_blank">`)
+                </script>
+                <i class="bi bi-github"></i></a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="info">
-              <a href="https://www.google.com/maps/@29.9568559,30.9302598,15z" target="_blank">
-                <div class="d-flex align-items-center">
-                  <i class="bi bi-geo-alt"></i>
-                  <p> First 6th of October, Giza Governorate </p>
-                </div>
+
+              <script>
+                document.write(`<a href="${generalData.location}" class="" target="_blank">`)
+              </script>
+              <div class="d-flex align-items-center">
+                <i class="bi bi-geo-alt"></i>
+                <p>
+                  <script>
+                    document.write(generalData.address)
+                  </script>
+                </p>
+              </div>
               </a>
 
-              <a href="mailto:maichel.sameh.contact@gmail.com" target="_blank">
+              <script>
+                document.write(`<a href="mailto:${generalData.email}" class="" target="_blank">`)
+              </script>
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-envelope"></i>
-                  <p>maichel.sameh.contact@gmail.com</p>
+                  <p>
+                    <script>
+                      document.write(generalData.email)
+                    </script>
+                  </p>
                 </div>
               </a>
 
-              <a href="tel:201205082038" target="_blank">
+              <script>
+                document.write(`<a href="tel:${generalData.phone}" class="" target="_blank">`)
+              </script>
                 <div class="d-flex align-items-center mt-4">
                   <i class="bi bi-phone"></i>
-                  <p>+20 1205082038</p>
+                  <p>
+                    <script>
+                      document.write(generalData.phone)
+                    </script></p>
                 </div>
               </a>
 
