@@ -117,10 +117,13 @@
                 <script>
                   document.write(`<li><strong>Category</strong>: ${project["category"]}</li>`);
                   document.write(`<li><strong>Client</strong>: ${project["client"]}</li>`);
+                  if(project["app-links"]["google-play"] !== undefined && project["app-links"]["google-play"] != null)
                   document.write(`<li><strong>Google Play</strong>: <a href="${project["app-links"]["google-play"]}" target="_blank">${project["app-links"]["google-play"]}</a></li>`);
+                  if(project["app-links"]["app-store"] !== undefined && project["app-links"]["app-store"] != null)
                   document.write(`<li><strong>App store</strong>: <a href="${project["app-links"]["app-store"]}" target="_blank"">${project["app-links"]["app-store"]}</a></li>`);
-                  // document.write(`<li><strong>Project date</strong>: ${project["category"]}</li>`);
-                  // document.write(`<li><strong>Project URL</strong>: ${project["category"]}</li>`);
+                  document.write(`<li><strong>Duration</strong>: ${project["duration"]}</li>`);
+                  if(project["date"] !== undefined && project["date"] != null)
+                  document.write(`<li><strong>Project date</strong>: ${project["date"]}</li>`);
                 </script>
               </ul>
             </div>

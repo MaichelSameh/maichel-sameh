@@ -822,6 +822,7 @@ p.language-level {
   aspect-ratio: 1;
 }
 
+
 .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(44, 73, 100, 0.6);
@@ -846,6 +847,11 @@ p.language-level {
   transition: all ease-in-out 0.3s;
   padding: 30px;
 }
+
+.portfolio .portfolio-wrap li{
+  color: white;
+}
+
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
@@ -937,6 +943,7 @@ p.language-level {
 .portfolio-details .portfolio-info {
   padding: 30px;
   box-shadow: 0px 0 30px rgba(44, 73, 100, 0.08);
+  overflow: hidden;
 }
 
 .portfolio-details .portfolio-info h3 {

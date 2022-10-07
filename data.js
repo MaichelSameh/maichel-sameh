@@ -16,10 +16,11 @@ const projects = [
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
-            "google-play": "",
+            "google-play": null,
             "app-store": "https://apps.apple.com/us/app/brandyone/id1642609987",
         },
-        "duration": "1 Month",
+        "duration": "3 weeks",
+        "date": "2022-08-09",
     },
     {
         "id": "sa-dan",
@@ -33,9 +34,10 @@ const projects = [
         "client": "Khalij",
         "app-links": {
             "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.sadan",
-            "app-store": "",
+            "app-store": "https://apps.apple.com/eg/app/samma/id1572927798",
         },
-        "duration": "1 Month",
+        "duration": "7 days",
+        "date": "2022-09-14",
     },
     {
         "id": "black-point",
@@ -54,7 +56,8 @@ const projects = [
             "google-play": "https://play.google.com/store/apps/details?id=com.blackpoint.shop",
             "app-store": "https://apps.apple.com/us/app/bblackpoint/id1634965735",
         },
-        "duration": "1 Month",
+        "duration": "3 weeks",
+        "date": "2022-07-01",
     },
     {
         "id": "entaji",
@@ -76,7 +79,8 @@ const projects = [
             "google-play": "https://play.google.com/store/apps/details?id=com.entaji.souq",
             "app-store": "https://apps.apple.com/us/app/entaj/id1641259639",
         },
-        "duration": "1 Month",
+        "duration": "2 weeks",
+        "date": "2022-07-17",
     },
     {
         "id": "island-auto",
@@ -92,6 +96,7 @@ const projects = [
             "app-store": "https://apps.apple.com/us/app/car-mro/id1621338628",
         },
         "duration": "1 Month",
+        "date": "2022-03-22"
     },
     {
         "id": "my-boarding",
@@ -113,6 +118,7 @@ const projects = [
             "app-store": "https://apps.apple.com/eg/app/my-boarding/id1637631752",
         },
         "duration": "10 days",
+        "date": "2022-06-06",
     },
     {
         "id": "submit",
@@ -130,6 +136,25 @@ const projects = [
             "app-store": "https://apps.apple.com/us/app/submit/id1640553923",
         },
         "duration": "1 Month",
+        "date": "2022-06-08",
+    },
+    {
+        "id": "gorders",
+        "filter": "app",
+        "title": "Gorders",
+        "description": `
+
+        `,
+        "main-media-url": "assets/img/portfolio/gorder.jpg",
+        "media-url": ["assets/img/portfolio/gorder.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": null,
+            "app-store": null,
+        },
+        "duration": "10 days",
+        "date": "2022-10-29",
     },
     {
         "id": "real-attend",
@@ -139,27 +164,42 @@ const projects = [
         An attendance app to register and control any company size.<br>
         In this application, there are two main sections manager section and the employee section.<br>
         The manager has the same advantages as an employee with some extra abilities to control the employees in his department.<br>
-        In brief, an employee can:<br>
-        -Authenticate<br>
-        -Register his attendance<br>
-        -Finish his work<br>
-        -Receive push notification when a request is updated<br>
-        -Ask for vacation<br>
-        -Request new permission<br>
-        -Send reports to the manager and the company<br>
-        -Get all his activities on a particular day<br>
-        -Change his profile picture<br>
-        -Get a brief about his job in a certain period<br>
-        -Create a new client visit(if he is a salesman)<br><br>
-        The extra advantages for a manager:<br>
-        -Accept or reject a permission/vacation request<br>
-        -Can keep tracking of all his employee's progress<br>
-        -Can see all the other employees and managers in his department<br>
-        -See other employee's reports-Check each day attendance with its state(who was on vacation, present, absent, or even in delay)<br>
-        -Receive notifications when other employees ask for permission
+        In brief,<em> an employee can</em>:<br>
+        <ul>
+        <li>Authenticate</li>
+        <li>Register his attendance</li>
+        <li>Finish his work</li>
+        <li>Receive push notification when a request is updated</li>
+        <li>Ask for vacation</li>
+        <li>Request new permission</li>
+        <li>Send reports to the manager and the company</li>
+        <li>Get all his activities on a particular day</li>
+        <li>Change his profile picture</li>
+        <li>Get a brief about his job in a certain period</li>
+        <li>Create a new client visit(if he is a salesman)</li>
+        <li>Register his attendance</li>
+        </li>Finish his work</li>
+        <li>Receive push notification when a request is updated</li>
+        <li>Ask for vacation</li>
+        <li>Request new permission</li>
+        <li>Send reports to the manager and the company</li>
+        <li>Get all his activities on a particular day</li>
+        <li>Change his profile picture</li>
+        <li>Get a brief about his job in a certain period</li>
+        <li>Create a new client visit(if he is a salesman)</li><br>
+        </ul>
+        <em>The extra advantages for a manager:</em>
+        <ul>
+        <li>Accept or reject a permission/vacation request</li>
+        <li>Can keep tracking of all his employee's progress</li>
+        <li>Can see all the other employees and managers in his department</li>
+        <li>See other employee's reports
+        <li>Check each day attendance with its state(who was on vacation, present, absent, or even in delay)</li>
+        <li>Receive notifications when other employees ask for permission</li>
+        </ul>
         `,
-        "main-media-url": "assets/img/portfolio/real-attend.png",
-        "media-url": ["assets/img/portfolio/real-attend.png",],
+        "main-media-url": "assets/img/portfolio/real-attend.jpg",
+        "media-url": ["assets/img/portfolio/real-attend.jpg",],
         "category": "App development",
         "client": "Arab Badia",
         "app-links": {
@@ -167,6 +207,7 @@ const projects = [
             "app-store": "https://apps.apple.com/eg/app/real-attend/id1599098078",
         },
         "duration": "3 Month",
+        "date": "2022-04-01",
     },
 ];
 
