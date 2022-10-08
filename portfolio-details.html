@@ -132,6 +132,9 @@
               <p>
                 <script>
                   document.write(project["description"]);
+                  // if(project["features"] !== undefined && project["features"] != null)
+                  document.write(project["features"] ? project["features"] : "");
+                  // document.write(project["features"]);
                 </script>
             </div>
           </div>

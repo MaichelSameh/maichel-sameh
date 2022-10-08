@@ -110,7 +110,7 @@ const projects = [
         Want to check the weather and the currency in the other country?<br>
         Open the app and search for the country, you got the weather, go to the Currencies section, select the currency you want, and you got the currency for the other country :)`,
         "main-media-url": "assets/img/portfolio/my-boarding.jpg",
-        "media-url": ["assets/img/portfolio/my-boarding.jpg,"],
+        "media-url": ["assets/img/portfolio/my-boarding.jpg",],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -164,7 +164,10 @@ const projects = [
         An attendance app to register and control any company size.<br>
         In this application, there are two main sections manager section and the employee section.<br>
         The manager has the same advantages as an employee with some extra abilities to control the employees in his department.<br>
-        In brief,<em> an employee can</em>:<br>
+        In brief.
+        `,
+        "features": `
+        <em> an employee can</em>:
         <ul>
         <li>Authenticate</li>
         <li>Register his attendance</li>

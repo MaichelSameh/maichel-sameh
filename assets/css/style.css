@@ -802,6 +802,7 @@ section {
 
 p.language-level {
   font-size: 12px;
+  max-width: calc((16px + 8px) * 6);
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -818,7 +819,7 @@ p.language-level {
   border-radius: 15px;
 }
 
-.portfolio .portfolio-wrap img{
+.portfolio .portfolio-wrap img {
   aspect-ratio: 1;
 }
 
@@ -848,7 +849,7 @@ p.language-level {
   padding: 30px;
 }
 
-.portfolio .portfolio-wrap li{
+.portfolio .portfolio-wrap li {
   color: white;
 }
 
@@ -863,8 +864,8 @@ p.language-level {
   color: #ffffff;
   font-size: 14px;
   display: -webkit-box;
-  -webkit-line-clamp: 3; 
-          line-clamp: 3; 
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   text-overflow: clip;
   text-transform: uppercase;
   overflow: hidden;
