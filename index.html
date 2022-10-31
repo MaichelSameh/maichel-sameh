@@ -340,17 +340,14 @@
             );
             let sortedProjectsSubArrays = [];
             for (let i = 1; i <= 10; i++) {
-              sortedProjectsByImportance.slice(sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
-                return currentValue["importance"] === i;
-              }), sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
-                return currentValue["importance"] === i + 1;
-              }));
               sortedProjectsSubArrays.push(
                 sortedProjectsByImportance.slice(sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
                 return currentValue["importance"] === i;
-              }), sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+              }),( sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
                 return currentValue["importance"] === i + 1;
-              })).sort(
+              }) > 0 ? sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                return currentValue["importance"] === i + 1;
+              }) : sortedProjectsByImportance.length )).sort(
                   function (objA, objB) {
                     return objA["date"].toString().localeCompare(objB["date"].toString());
                   },
@@ -361,11 +358,9 @@
             for (let i = 0; i < sortedProjectsSubArrays.length; i++) {
               sortedProjects = sortedProjects.concat(sortedProjectsSubArrays[i]);
             }
-
+            console.log(sortedProjectsSubArrays);
+            console.log(sortedProjects);
             sortedProjects = [...new Set(sortedProjects)];
-            // console.log(sortedProjectsByImportance);
-            // console.log(sortedProjectsSubArrays);
-            // console.log(sortedProjects);
             for (let i = 0; i < sortedProjects.length; i++) {
               document.write(`<a href="portfolio-details.html?project-id=${sortedProjects[i]["id"]}">`);
               document.write(`
