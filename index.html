@@ -219,7 +219,6 @@
                       <div class="column">
                         <div class="d-flex">
                     `);
-                console.log(languages[i]["level-in-number"]);
                 for (let x = 0; x < 6; x++) {
                   if (x < languages[i]["level-in-number"]) {
                     document.write(`<div class="ball full"></div>`);
@@ -228,7 +227,6 @@
                   }
                 }
                 document.write(`</div>`);
-                console.log(languageLeveLText[languages[i]["level"]]);
                 document.write(`<p class="language-level">${languageLeveLText[languages[i]["level"]]}</p>`);
                 document.write(`
                       </div>
@@ -335,16 +333,49 @@
         <div class="row portfolio-container">
 
           <script>
-            for (let i = 0; i < projects.length; i++) {
-              document.write(`<a href="portfolio-details.html?project-id=${projects[i]["id"]}">`);
+            let sortedProjectsByImportance = projects.sort(
+              function (objA, objB) {
+                return objA["importance"].toString().localeCompare(objB["importance"].toString());
+              },
+            );
+            let sortedProjectsSubArrays = [];
+            for (let i = 1; i <= 10; i++) {
+              sortedProjectsByImportance.slice(sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                return currentValue["importance"] === i;
+              }), sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                return currentValue["importance"] === i + 1;
+              }));
+              sortedProjectsSubArrays.push(
+                sortedProjectsByImportance.slice(sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                return currentValue["importance"] === i;
+              }), sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                return currentValue["importance"] === i + 1;
+              })).sort(
+                  function (objA, objB) {
+                    return objA["date"].toString().localeCompare(objB["date"].toString());
+                  },
+                )
+              )
+            }
+            let sortedProjects = [];
+            for (let i = 0; i < sortedProjectsSubArrays.length; i++) {
+              sortedProjects = sortedProjects.concat(sortedProjectsSubArrays[i]);
+            }
+
+            sortedProjects = [...new Set(sortedProjects)];
+            // console.log(sortedProjectsByImportance);
+            // console.log(sortedProjectsSubArrays);
+            // console.log(sortedProjects);
+            for (let i = 0; i < sortedProjects.length; i++) {
+              document.write(`<a href="portfolio-details.html?project-id=${sortedProjects[i]["id"]}">`);
               document.write(`
-                  <div class="col-lg-4 col-md-6  portfolio-item filter-${projects[i]["filter"]}">
+                  <div class="col-lg-4 col-md-6  portfolio-item filter-${sortedProjects[i]["filter"]}">
                     <div class="portfolio-wrap">
                 `);
-              document.write(`<img src="${projects[i]["main-media-url"]}" class="img-fluid" alt="${projects[i]["title"]}">`);
+              document.write(`<img src="${sortedProjects[i]["main-media-url"]}" class="img-fluid" alt="${sortedProjects[i]["title"]}">`);
               document.write(`<div class="portfolio-info">`);
-              document.write(`<h4>${projects[i]["title"]}</h4>`);
-              document.write(`<p>${projects[i]["description"].replace("\n", "<br>")}</p>`);
+              document.write(`<h4>${sortedProjects[i]["title"]}</h4>`);
+              document.write(`<p>${sortedProjects[i]["description"].replace("\n", "<br>")}</p>`);
               document.write(`      
                   </div>
                   </div>
@@ -448,26 +479,27 @@
               <script>
                 document.write(`<a href="mailto:${generalData.email}" class="" target="_blank">`)
               </script>
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-envelope"></i>
-                  <p>
-                    <script>
-                      document.write(generalData.email)
-                    </script>
-                  </p>
-                </div>
+              <div class="d-flex align-items-center mt-4">
+                <i class="bi bi-envelope"></i>
+                <p>
+                  <script>
+                    document.write(generalData.email)
+                  </script>
+                </p>
+              </div>
               </a>
 
               <script>
                 document.write(`<a href="tel:${generalData.phone}" class="" target="_blank">`)
               </script>
-                <div class="d-flex align-items-center mt-4">
-                  <i class="bi bi-phone"></i>
-                  <p>
-                    <script>
-                      document.write(generalData.phone)
-                    </script></p>
-                </div>
+              <div class="d-flex align-items-center mt-4">
+                <i class="bi bi-phone"></i>
+                <p>
+                  <script>
+                    document.write(generalData.phone)
+                  </script>
+                </p>
+              </div>
               </a>
 
             </div>

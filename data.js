@@ -1,172 +1,17 @@
 const projects = [
     {
-        "id": "brandy-one",
-        "filter": "app",
-        "title": "Brandy one",
-        "description": `BrandyOne is an application that helps people to find luxury and well-known brands.<br><br>
-        The app is based in three countries: Kuwait, UAE, Saudi Arabia<br><br>
-        App feature:<br>
-        -E-commerce<br>
-        -online cart<br>
-        -offline cart<br>
-        -online payment<br>
-        -ads`,
-        "main-media-url": "assets/img/portfolio/brandy-one.jpg",
-        "media-url": ["assets/img/portfolio/brandy-one.jpg",],
-        "category": "App development",
-        "client": "Mix-Code",
-        "app-links": {
-            "google-play": null,
-            "app-store": "https://apps.apple.com/us/app/brandyone/id1642609987",
-        },
-        "duration": "3 weeks",
-        "date": "2022-08-09",
-    },
-    {
-        "id": "sa-dan",
-        "filter": "app",
-        "title": "Sa-dan",
-        "description": `Sa-dan is an online app to browse daily home needs.<br><br>
-        From this app, you can browse restaurants, shops, supermarkets, or any other type of shop.`,
-        "main-media-url": "assets/img/portfolio/sa-dan.jpg",
-        "media-url": ["assets/img/portfolio/sa-dan.jpg",],
-        "category": "App development",
-        "client": "Khalij",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.sadan",
-            "app-store": "https://apps.apple.com/eg/app/samma/id1572927798",
-        },
-        "duration": "7 days",
-        "date": "2022-09-14",
-    },
-    {
-        "id": "black-point",
-        "filter": "app",
-        "title": "Black point",
-        "description": `Abayat E-commerce application.<br>
-        <br>
-        Where is the secure or most famous platform to shop an Abaya? Simply NO.<br>
-        <br>
-        This was the idea of the client, creating a secure, famous, easy-to-reach platform to pay or shop all the abayat.`,
-        "main-media-url": "assets/img/portfolio/black-point.jpg",
-        "media-url": ["assets/img/portfolio/black-point.jpg",],
-        "category": "App development",
-        "client": "Khalij",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=com.blackpoint.shop",
-            "app-store": "https://apps.apple.com/us/app/bblackpoint/id1634965735",
-        },
-        "duration": "3 weeks",
-        "date": "2022-07-01",
-    },
-    {
-        "id": "entaji",
-        "filter": "app",
-        "title": "Entaji",
-        "description": `
-        A complete E-commerce platform based in Saudi Arabia.<br>
-        App feature:<br>
-        - shopping<br>
-        - cart<br>
-        - online payment<br>
-        - seller dashboard<br>
-        - wishlist`,
-        "main-media-url": "assets/img/portfolio/entaji.jpg",
-        "media-url": ["assets/img/portfolio/entaji.jpg",],
-        "category": "App development",
-        "client": "Khalij",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=com.entaji.souq",
-            "app-store": "https://apps.apple.com/us/app/entaj/id1641259639",
-        },
-        "duration": "2 weeks",
-        "date": "2022-07-17",
-    },
-    {
-        "id": "island-auto",
-        "filter": "app",
-        "title": "Island auto",
-        "description": ``,
-        "main-media-url": "assets/img/portfolio/island-auto.jpg",
-        "media-url": ["assets/img/portfolio/island-auto.jpg",],
-        "category": "App development",
-        "client": "Mix-Code",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=com.island.auto",
-            "app-store": "https://apps.apple.com/us/app/car-mro/id1621338628",
-        },
-        "duration": "1 Month",
-        "date": "2022-03-22"
-    },
-    {
-        "id": "my-boarding",
-        "filter": "app",
-        "title": "My Boarding",
-        "description": `"Why should I check the weather from an application and check the currency market from another app?"<br>
-        This was the problem that the client faced for a long time. The solution was very simple ("My boarding")<br>
-        <br>
-        An application that simplifies the process of checking the weather and the currency every day.<br>
-        <br>
-        Want to check the weather and the currency in the other country?<br>
-        Open the app and search for the country, you got the weather, go to the Currencies section, select the currency you want, and you got the currency for the other country :)`,
-        "main-media-url": "assets/img/portfolio/my-boarding.jpg",
-        "media-url": ["assets/img/portfolio/my-boarding.jpg",],
-        "category": "App development",
-        "client": "Mix-Code",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=com.myboarding.weather",
-            "app-store": "https://apps.apple.com/eg/app/my-boarding/id1637631752",
-        },
-        "duration": "10 days",
-        "date": "2022-06-06",
-    },
-    {
-        "id": "submit",
-        "filter": "app",
-        "title": "Submit",
-        "description": `
-        E-learning application for universities.<br>
-        The app uses the video streaming feature so that the professors can upload their lessons and courses to all the students`,
-        "main-media-url": "assets/img/portfolio/submit-edu.jpg",
-        "media-url": ["assets/img/portfolio/submit-edu.jpg",],
-        "category": "App development",
-        "client": "Mix-Code",
-        "app-links": {
-            "google-play": "https://play.google.com/store/apps/details?id=com.submit.edu",
-            "app-store": "https://apps.apple.com/us/app/submit/id1640553923",
-        },
-        "duration": "1 Month",
-        "date": "2022-06-08",
-    },
-    {
-        "id": "gorders",
-        "filter": "app",
-        "title": "Gorders",
-        "description": `
-
-        `,
-        "main-media-url": "assets/img/portfolio/gorder.jpg",
-        "media-url": ["assets/img/portfolio/gorder.jpg",],
-        "category": "App development",
-        "client": "Khlij",
-        "app-links": {
-            "google-play": null,
-            "app-store": null,
-        },
-        "duration": "10 days",
-        "date": "2022-10-29",
-    },
-    {
+        "title": "Real attend",
+        "importance": 1,
         "id": "real-attend",
         "filter": "app",
-        "title": "Real attend",
         "description": `
         An attendance app to register and control any company size.<br>
         In this application, there are two main sections manager section and the employee section.<br>
-        The manager has the same advantages as an employee with some extra abilities to control the employees in his department.<br>
+        The manager has the same advantages as an employee with some extra abilities to control the employees in his department.
         In brief.
         `,
         "features": `
+        <br>
         <em> an employee can</em>:
         <ul>
         <li>Authenticate</li>
@@ -210,7 +55,295 @@ const projects = [
             "app-store": "https://apps.apple.com/eg/app/real-attend/id1599098078",
         },
         "duration": "3 Month",
-        "date": "2022-04-01",
+        "date": "2021-08-01",
+    },
+    {
+        "title": "Brandy one",
+        "importance": 2,
+        "id": "brandy-one",
+        "filter": "app",
+        "description": `BrandyOne is an application that helps people to find luxury and well-known brands.<br><br>
+        The app is based in three countries: Kuwait, UAE, Saudi Arabia<br><br>
+        App feature:<br>
+        -E-commerce<br>
+        -online cart<br>
+        -offline cart<br>
+        -online payment<br>
+        -ads`,
+        "main-media-url": "assets/img/portfolio/brandy-one.jpg",
+        "media-url": ["assets/img/portfolio/brandy-one.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
+        "app-links": {
+            "google-play": null,
+            "app-store": "https://apps.apple.com/us/app/brandyone/id1642609987",
+        },
+        "duration": "3 weeks",
+        "date": "2022-08-09",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Multi languages</li>
+            <li>Multi categorization product</li>
+            <li>Online cart</li>
+            <li>Online wishlist</li>
+            <li>Checkout process</li>
+            <li>Online wallet</li>
+            <li>Online payment<small>(PayTaps)</small></li>
+            <li>Products online review</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Sa-dan",
+        "importance": 2,
+        "id": "sa-dan",
+        "filter": "app",
+        "description": `Sa-dan is an online app to browse daily home needs.<br><br>
+        From this app, you can browse restaurants, shops, supermarkets, or any other type of shop.`,
+        "main-media-url": "assets/img/portfolio/sa-dan.jpg",
+        "media-url": ["assets/img/portfolio/sa-dan.jpg",],
+        "category": "App development",
+        "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.sadan",
+            "app-store": "https://apps.apple.com/eg/app/samma/id1572927798",
+        },
+        "duration": "7 days",
+        "date": "2022-09-14",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Multi languages</li>
+            <li>Online cart</li>
+            <li>Online wishlist</li>
+            <li>Checkout process</li>
+            <li>Online wallet</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Black point",
+        "importance": 2,
+        "id": "black-point",
+        "filter": "app",
+        "description": `Abayat E-commerce application.<br>
+        <br>
+        Where is the secure or most famous platform to shop an Abaya? Simply NO.<br>
+        <br>
+        This was the idea of the client, creating a secure, famous, easy-to-reach platform to pay or shop all the abayat.`,
+        "main-media-url": "assets/img/portfolio/black-point.jpg",
+        "media-url": ["assets/img/portfolio/black-point.jpg",],
+        "category": "App development",
+        "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.blackpoint.shop",
+            "app-store": "https://apps.apple.com/us/app/bblackpoint/id1634965735",
+        },
+        "duration": "3 weeks",
+        "date": "2022-07-01",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Multi languages</li>
+            <li>Multi categorization product</li>
+            <li>Online cart</li>
+            <li>Online wishlist</li>
+            <li>Checkout process</li>
+            <li>Online wallet</li>
+            <li>Online payment<small>(Tap company)</small></li>
+            <li>Products online review</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Entaji",
+        "importance": 2,
+        "id": "entaji",
+        "filter": "app",
+        "description": `
+        A complete E-commerce platform based in Saudi Arabia.<br>`,
+        "main-media-url": "assets/img/portfolio/entaji.jpg",
+        "media-url": ["assets/img/portfolio/entaji.jpg",],
+        "category": "App development",
+        "client": "Khalij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.entaji.souq",
+            "app-store": "https://apps.apple.com/us/app/entaj/id1641259639",
+        },
+        "duration": "2 weeks",
+        "date": "2022-07-17",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Multi languages</li>
+            <li>Online cart</li>
+            <li>Online wishlist</li>
+            <li>Checkout process</li>
+            <li>Seller dashboard</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Island auto",
+        "importance": 2,
+        "id": "island-auto",
+        "filter": "app",
+        "description": ``,
+        "main-media-url": "assets/img/portfolio/island-auto.jpg",
+        "media-url": ["assets/img/portfolio/island-auto.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.island.auto",
+            "app-store": "https://apps.apple.com/us/app/car-mro/id1621338628",
+        },
+        "duration": "1 Month",
+        "date": "2022-03-22",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Map integration</li>
+            <li>Multi languages</li>
+            <li>Online cart</li>
+            <li>Checkout process</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "My Boarding",
+        "importance": 1,
+        "id": "my-boarding",
+        "filter": "app",
+        "description": `"Why should I check the weather from an application and check the currency market from another app?"<br>
+        This was the problem that the client faced for a long time. The solution was very simple ("My boarding")<br>
+        <br>
+        An application that simplifies the process of checking the weather and the currency every day.<br>
+        <br>
+        Want to check the weather and the currency in the other country?<br>
+        Open the app and search for the country, you got the weather, go to the Currencies section, select the currency you want, and you got the currency for the other country :)`,
+        "main-media-url": "assets/img/portfolio/my-boarding.jpg",
+        "media-url": ["assets/img/portfolio/my-boarding.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.myboarding.weather",
+            "app-store": "https://apps.apple.com/eg/app/my-boarding/id1637631752",
+        },
+        "duration": "10 days",
+        "date": "2022-06-06",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Multi languages</li>
+            <li>Currency convertor</li>
+            <li>Weather forecast</li>
+            <li>Flight trips booking</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Submit",
+        "importance": 1,
+        "id": "submit",
+        "filter": "app",
+        "description": `
+        E-learning application for universities.<br>
+        The app uses the video streaming feature so that the professors can upload their lessons and courses to all the students`,
+        "main-media-url": "assets/img/portfolio/submit-edu.jpg",
+        "media-url": ["assets/img/portfolio/submit-edu.jpg",],
+        "category": "App development",
+        "client": "Mix-Code",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.submit.edu",
+            "app-store": "https://apps.apple.com/us/app/submit/id1640553923",
+        },
+        "duration": "1 Month",
+        "date": "2022-06-08",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Multi languages</li>
+            <li>Video player</li>
+            <li>Online courses</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Gorders",
+        "importance": 2,
+        "id": "gorders",
+        "filter": "app",
+        "description": `
+        `,
+        "main-media-url": "assets/img/portfolio/gorders.jpg",
+        "media-url": ["assets/img/portfolio/gorders.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.gorders",
+            "app-store": "https://apps.apple.com/us/app/gorders/id6443747211",
+        },
+        "duration": "10 days",
+        "date": "2022-09-29",
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Map integration</li>
+            <li>Multi languages</li>
+            <li>Online cart</li>
+            <li>Online wishlist</li>
+            <li>Checkout process</li>
+        </ul>
+        `,
+    },
+    {
+        "title": "Aqarko",
+        "importance": 1,
+        "id": "aqarko",
+        "filter": "app",
+        "description": `
+        A real-estate application to facilitate the process of owning a new apartment.
+        The app main purpose is to add your apartment or even own one, by using the app you can check all the available apartment
+        nearest to you and check them using a small video ro some images.
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Posting new ads</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+            <li>video player</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/aqarko.jpg",
+        "media-url": ["assets/img/portfolio/aqarko.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": null,
+            "app-store": null,
+        },
+        "duration": "10 days",
+        "date": "2022-10-15",
     },
 ];
 
