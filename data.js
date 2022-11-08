@@ -339,7 +339,7 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": null,
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.aqarko",
             "app-store": null,
         },
         "duration": "10 days",
