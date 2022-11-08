@@ -334,8 +334,8 @@ const projects = [
             <li>video player</li>
         </ul>
         `,
-        "main-media-url": "assets/img/portfolio/aqarko.jpg",
-        "media-url": ["assets/img/portfolio/aqarko.jpg",],
+        "main-media-url": "assets/img/portfolio/Aqarko.jpg",
+        "media-url": ["assets/img/portfolio/Aqarko.jpg",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
