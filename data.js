@@ -449,7 +449,7 @@ const generalData = {
     <br>
     Don't miss the chance to get in touch :)
     <br>`,
-    "email": "maichel.sameh.contact@gmail.com",
+    "email": "contact@maichelsameh.com",
     "address": "First 6th of October, Giza Governorate",
     "location": "https://www.google.com/maps/@29.9568559,30.9302598,15z",
     "phone": "+201205082038",
