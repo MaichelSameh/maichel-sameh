@@ -334,8 +334,8 @@ const projects = [
             <li>video player</li>
         </ul>
         `,
-        "main-media-url": "assets/img/portfolio/Aqarko.jpg",
-        "media-url": ["assets/img/portfolio/Aqarko.jpg",],
+        "main-media-url": "assets/img/portfolio/aqarko.jpg",
+        "media-url": ["assets/img/portfolio/aqarko.jpg",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -344,6 +344,74 @@ const projects = [
         },
         "duration": "10 days",
         "date": "2022-10-15",
+    },
+    {
+        "title": "Car way client",
+        "importance": 1,
+        "id": "car-way-client",
+        "filter": "app",
+        "description": `
+        A real time delivery application that connect the drivers with the clients that need to go to their destination.
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+            <li>Chat</li>
+            <li>socket</li>
+            <li>Real-time car tracking</li>
+            <li>History</li>
+            <li>Booking rides</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/car-way-client.jpg",
+        "media-url": ["assets/img/portfolio/car-way-client.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": null,
+            "app-store": null,
+        },
+        "duration": "month",
+        "date": "2023-02-09",
+    },
+    {
+        "title": "Car way driver",
+        "importance": 1,
+        "id": "car-way-driver",
+        "filter": "app",
+        "description": `
+        A real time delivery application that connect the drivers with the clients that need to go to their destination.
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+            <li>Chat</li>
+            <li>socket</li>
+            <li>Real-time car tracking</li>
+            <li>History</li>
+            <li>Booking rides</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/car-way-driver.jpg",
+        "media-url": ["assets/img/portfolio/car-way-driver.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": null,
+            "app-store": null,
+        },
+        "duration": "month",
+        "date": "2023-02-09",
     },
 ];
 
