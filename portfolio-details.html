@@ -43,7 +43,7 @@
     let url_string = window.location;
     let url = new URL(url_string);
     let projectId = url.searchParams.get("project-id");
-    let project =  projects.find( o => o.id == projectId);
+    let project = projects.find(o => o.id == projectId);
     console.log(project);
   </script>
   <!-- ======= Header ======= -->
@@ -80,7 +80,7 @@
           <script>
             document.write(`<h2>${project.title}</h2>`)
           </script>
-          
+
         </div>
 
       </div>
@@ -96,17 +96,24 @@
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
                 <script>
-                  for(let i = 0; i < project["media-url"].length ;i++) {
+                  for (let i = 0; i < project["media-url"].length; i++) {
                     document.write(`
                     <div class="swiper-slide">
                       <img src="${project["media-url"][i]}" alt="${project["media-url"][i]}">
                     </div>
-                `)
+                `);
                   }
                 </script>
 
               </div>
               <div class="swiper-pagination"></div>
+              <script>
+                document.write(`
+                  <div>
+                    ${project["full-description"]}
+                  </div>
+              `);
+              </script>
             </div>
           </div>
 
@@ -117,13 +124,13 @@
                 <script>
                   document.write(`<li><strong>Category</strong>: ${project["category"]}</li>`);
                   document.write(`<li><strong>Client</strong>: ${project["client"]}</li>`);
-                  if(project["app-links"]["google-play"] !== undefined && project["app-links"]["google-play"] != null)
-                  document.write(`<li><strong>Google Play</strong>: <a href="${project["app-links"]["google-play"]}" target="_blank">${project["app-links"]["google-play"]}</a></li>`);
-                  if(project["app-links"]["app-store"] !== undefined && project["app-links"]["app-store"] != null)
-                  document.write(`<li><strong>App store</strong>: <a href="${project["app-links"]["app-store"]}" target="_blank"">${project["app-links"]["app-store"]}</a></li>`);
+                  if (project["app-links"]["google-play"] !== undefined && project["app-links"]["google-play"] != null)
+                    document.write(`<li><strong>Google Play</strong>: <a href="${project["app-links"]["google-play"]}" target="_blank">${project["app-links"]["google-play"]}</a></li>`);
+                  if (project["app-links"]["app-store"] !== undefined && project["app-links"]["app-store"] != null)
+                    document.write(`<li><strong>App store</strong>: <a href="${project["app-links"]["app-store"]}" target="_blank"">${project["app-links"]["app-store"]}</a></li>`);
                   document.write(`<li><strong>Duration</strong>: ${project["duration"]}</li>`);
-                  if(project["date"] !== undefined && project["date"] != null)
-                  document.write(`<li><strong>Project date</strong>: ${project["date"]}</li>`);
+                  if (project["date"] !== undefined && project["date"] != null)
+                    document.write(`<li><strong>Project date</strong>: ${project["date"]}</li>`);
                 </script>
               </ul>
             </div>
@@ -131,7 +138,7 @@
               <h2>Details</h2>
               <p>
                 <script>
-                  document.write(project["description"]);
+                  document.write(project["summery"]);
                   // if(project["features"] !== undefined && project["features"] != null)
                   document.write(project["features"] ? project["features"] : "");
                   // document.write(project["features"]);

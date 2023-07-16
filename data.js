@@ -131,11 +131,49 @@ const projects = [
         "importance": 2,
         "id": "black-point",
         "filter": "app",
-        "description": `Abayat E-commerce application.<br>
-        <br>
-        Where is the secure or most famous platform to shop an Abaya? Simply NO.<br>
-        <br>
-        This was the idea of the client, creating a secure, famous, easy-to-reach platform to pay or shop all the abayat.`,
+        "categories": [
+            "E-commerce",
+        ],
+        "summery": `
+        <p>Black Point is a cutting-edge fashion app that reflects my programming expertise.
+        With seamless integration of ready-made and tailor-made garments, users can personalize their style effortlessly.
+        My skills shine through in the dynamic customization feature, enabling users to specify measurements, fabrics, and colors.
+        Secure payment integration ensures a safe transaction process, while the intuitive user interface enhances the browsing experience.
+        Real-time updates and personalized user profiles add to the app's appeal, showcasing my proficiency in backend development and database management.
+        Experience Black Point and witness the power of programming expertise in fashion customization.</p>      
+        `,
+        "full-description": `
+        <h4>Black Point: Showcasing Programming Expertise in Fashion Customization</h4>
+
+        Black Point is a cutting-edge fashion app that highlights my programming expertise and passion for delivering personalized experiences.
+        This innovative platform seamlessly integrates ready-made and tailor-made garments, allowing users to express their unique style.
+        As a programmer, I've meticulously crafted a feature-rich app that demonstrates my abilities in the following areas:
+        <ol>
+        <li>
+        Dynamic Customization: Through advanced dynamic forms, users can effortlessly personalize their garments.
+        My expertise in form design and data collection enables a seamless experience, empowering users to specify measurements, fabrics, colors, and more, resulting in truly bespoke fashion choices.
+        </li>
+        <li>
+        Secure Payment Integration: Black Point prioritizes user trust and safety.
+        With my expertise in payment gateway integration, I've seamlessly incorporated secure online payments, ensuring a smooth and reliable transaction process.
+        User data is protected using industry-standard security protocols, reflecting my commitment to data privacy.
+        </li>
+        <li>
+        Intuitive User Interface: Black Point's user-friendly interface showcases my attention to detail and design skills.
+        The visually appealing layout and intuitive navigation enhance the browsing experience, allowing users to effortlessly explore the extensive catalog of ready-made garments.
+        </li>
+        <li>
+        Real-Time Updates: Leveraging my backend development expertise, Black Point provides real-time order tracking and notifications.
+        Users stay informed about their order status, shipping details, and estimated delivery dates.
+        This feature emphasizes my ability to implement dynamic data updates and deliver an engaging user experience.
+        </li>
+        <li>
+        Seamless User Profiles: Black Point's personalized user profiles demonstrate my proficiency in database management.
+        Users can save their favorite items, measurements, and style preferences, allowing for tailored recommendations.
+        My robust data management ensures efficient retrieval and storage of user preferences.
+        </li>
+        </ol>
+        `,
         "main-media-url": "assets/img/portfolio/black-point.jpg",
         "media-url": ["assets/img/portfolio/black-point.jpg",],
         "category": "App development",
@@ -435,6 +473,11 @@ const testimonial = [
         "name": "George Aziz",
         "testimonial": "Michael is one of the cleverest mobile app developer that I have ever seen. As a UI/UX Designer, I'm always concerned about developing the application interfaces just like the design without any changes in the elements design, spacing,  animation, etc... But Michael did the job very well!",
         "role": "UI/UX Designer",
+    },
+    {
+        "name": "Abdelrahman Abdallah",
+        "testimonial": "مهندس مايكل انت حقيقي من المبرمجين المتميزين القليلين جدا في المجال ودي شهاده قليله كمان عنك والله بالتوفيق",
+        "role": "مؤسس خليج للبرمجيات",
     },
 ];
 
