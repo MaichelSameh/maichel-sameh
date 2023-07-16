@@ -75,7 +75,7 @@ const projects = [
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
-            "google-play": null,
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.mixcode.brandy_one",
             "app-store": "https://apps.apple.com/us/app/brandyone/id1642609987",
         },
         "duration": "3 weeks",
@@ -378,7 +378,7 @@ const projects = [
         "client": "Khlij",
         "app-links": {
             "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.aqarko",
-            "app-store": null,
+            "app-store": "https://apps.apple.com/eg/app/aqarko/id6444111212",
         },
         "duration": "10 days",
         "date": "2022-10-15",
@@ -404,6 +404,8 @@ const projects = [
             <li>Real-time car tracking</li>
             <li>History</li>
             <li>Booking rides</li>
+            <li>Rude suggestion</li>
+            <li>Traffic state</li>
         </ul>
         `,
         "main-media-url": "assets/img/portfolio/car-way-client.jpg",
@@ -438,6 +440,8 @@ const projects = [
             <li>Real-time car tracking</li>
             <li>History</li>
             <li>Booking rides</li>
+            <li>Rude suggestion</li>
+            <li>Traffic state</li>
         </ul>
         `,
         "main-media-url": "assets/img/portfolio/car-way-driver.jpg",
@@ -450,6 +454,95 @@ const projects = [
         },
         "duration": "month",
         "date": "2023-02-09",
+    },
+    {
+        "title": "Dalel talimi",
+        "importance": 1,
+        "id": "dalel-talimi",
+        "filter": "app",
+        "description": `
+            Need to find an institute? School? Kindergarten?
+            This application is the first step to find your place in the educational system.
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/dalel-taleam.jpg",
+        "media-url": ["assets/img/portfolio/dalel-taleam.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": null,
+            "app-store": "https://apps.apple.com/eg/app/dalil-taelem/id1666825283",
+        },
+        "duration": "month",
+        "date": "2022-12-28",
+    },
+    {
+        "title": "First care",
+        "importance": 1,
+        "id": "first-care",
+        "filter": "app",
+        "description": `
+        Need to get a service for your home? First care is the best choice for you.
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/first-care.jpg",
+        "media-url": ["assets/img/portfolio/first-care.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.firstcare",
+            "app-store": null,
+        },
+        "duration": "month",
+        "date": "2022-12-28",
+    },
+    {
+        "title": "Joud",
+        "importance": 1,
+        "id": "joud",
+        "filter": "app",
+        "description": `
+        Joud is the best app to get your discount card from, you can get discount card from famous companies in many fields
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+            <li>Authentication</li>
+            <li>Google maps integrations</li>
+            <li>Multi languages</li>
+            <li>Notifications</li>
+            <li>Book card</li>
+        </ul>
+        `,
+        "main-media-url": "assets/img/portfolio/joud.jpg",
+        "media-url": ["assets/img/portfolio/joud.jpg",],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.joud",
+            "app-store": "https://apps.apple.com/eg/app/joud-%D8%AC%D9%88%D8%AF/id1671725006",
+        },
+        "duration": "month",
+        "date": "2022-12-28",
     },
 ];
 
