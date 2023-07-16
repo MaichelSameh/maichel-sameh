@@ -864,7 +864,7 @@ p.language-level {
   color: #ffffff;
   font-size: 14px;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 6;
   line-clamp: 3;
   text-overflow: clip;
   text-transform: uppercase;

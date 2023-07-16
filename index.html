@@ -342,12 +342,12 @@
             for (let i = 1; i <= 10; i++) {
               sortedProjectsSubArrays.push(
                 sortedProjectsByImportance.slice(sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
-                return currentValue["importance"] === i;
-              }),( sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
-                return currentValue["importance"] === i + 1;
-              }) > 0 ? sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
-                return currentValue["importance"] === i + 1;
-              }) : sortedProjectsByImportance.length )).sort(
+                  return currentValue["importance"] === i;
+                }), (sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                  return currentValue["importance"] === i + 1;
+                }) > 0 ? sortedProjectsByImportance.findIndex(function (currentValue, index, arr) {
+                  return currentValue["importance"] === i + 1;
+                }) : sortedProjectsByImportance.length)).sort(
                   function (objA, objB) {
                     return objA["date"].toString().localeCompare(objB["date"].toString());
                   },
@@ -370,7 +370,7 @@
               document.write(`<img src="${sortedProjects[i]["main-media-url"]}" class="img-fluid" alt="${sortedProjects[i]["title"]}">`);
               document.write(`<div class="portfolio-info">`);
               document.write(`<h4>${sortedProjects[i]["title"]}</h4>`);
-              document.write(`<p>${(sortedProjects[i]["description"] ?? sortedProjects[i]["summery"]).replace("\n", "<br>")}</p>`);
+              document.write(`<p>${(sortedProjects[i]["hint"]  ?? sortedProjects[i]["summery"] ?? sortedProjects[i]["full-description"] ?? sortedProjects[i]["description"]).replace("\n", "<br>")}</p>`);
               document.write(`      
                   </div>
                   </div>
@@ -405,7 +405,7 @@
                       <div class="testimonial-item">
                         <p> <i class="bx bxs-quote-alt-left quote-icon-left" style="color: #06063a6b;"></i> 
                           ${testimonial[i].testimonial}
-                         <i class="bx bxs-quote-alt-right quote-icon-right" style="color: #06063a6b;"></i></p> 
+                          <i class="bx bxs-quote-alt-right quote-icon-right" style="color: #06063a6b;"></i></p> 
                           <img src="assets/img/testimonials/person-placeholder.png" class="testimonial-img" alt="">
                         <h3>${testimonial[i].name}</h3>
                         <h4>${testimonial[i].role}</h4>
