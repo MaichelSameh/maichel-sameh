@@ -358,10 +358,11 @@
             for (let i = 0; i < sortedProjectsSubArrays.length; i++) {
               sortedProjects = sortedProjects.concat(sortedProjectsSubArrays[i]);
             }
-            console.log(sortedProjectsSubArrays);
-            console.log(sortedProjects);
             sortedProjects = [...new Set(sortedProjects)];
             for (let i = 0; i < sortedProjects.length; i++) {
+              if (sortedProjects[i]["hidden"]) {
+                continue;
+              }
               document.write(`<a href="portfolio-details.html?project-id=${sortedProjects[i]["id"]}">`);
               document.write(`
                   <div class="col-lg-4 col-md-6  portfolio-item filter-${sortedProjects[i]["filter"]}">
@@ -370,7 +371,7 @@
               document.write(`<img src="${sortedProjects[i]["main-media-url"]}" class="img-fluid" alt="${sortedProjects[i]["title"]}">`);
               document.write(`<div class="portfolio-info">`);
               document.write(`<h4>${sortedProjects[i]["title"]}</h4>`);
-              document.write(`<p>${(sortedProjects[i]["hint"]  ?? sortedProjects[i]["summery"] ?? sortedProjects[i]["full-description"] ?? sortedProjects[i]["description"]).replace("\n", "<br>")}</p>`);
+              document.write(`<p>${(sortedProjects[i]["hint"] ?? sortedProjects[i]["summery"] ?? sortedProjects[i]["full-description"] ?? sortedProjects[i]["description"]).replace("\n", "<br>")}</p>`);
               document.write(`      
                   </div>
                   </div>
