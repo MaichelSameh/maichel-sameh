@@ -43,6 +43,15 @@ const projects = [
             <p>لتعزيز إدارة الأداء، قمت بتطوير لوحة مراقبة متنقلة تتيح للمديرين متابعة أداء وإنتاجية الموظفين. باستخدام هذه اللوحة المتنقلة، يمكن للمديرين الوصول إلى البيانات في الوقت الحقيقي واكتساب رؤى قيمة حول أنماط الحضور وتاريخ الإذونات والأداء العام للموظف.</p>
             <p>من خلال مهاراتي في البرمجة، يمكن للشركات الاستفادة من نظام حضور متقدم يعزز الكفاءة ويسهل إدارة الإذونات ويوفر رؤى قيمة حول أداء الموظفين. محفظتي تعكس عمق خبرتي وجودة الحلول التي أقدمها.</p>
         `,
+        "keyword": [
+            "Company system",
+            "employee attendance",
+            "employee performance",
+            "attendance dashboard",
+            "attendance registration module",
+            "comprehensive attendance systems",
+            "developer portfolio",
+        ],
         "features": `
         <br>
         <em> an employee can</em>:
@@ -133,6 +142,21 @@ const projects = [
         "ar-hint": `
         ترقَّى بتجربتك في التسوق الفاخرة مع تطبيقنا الغني بالميزات، الذي يقدم عمليات مستدامة، وتشكيلات منتجات مُخصَّصة، وإمكانية الوصول العالمية.
         `,
+        "keyword": [
+            "high-quality e-commerce application",
+            "localized shopping experiences",
+            "personalized shopping experiences",
+            "e-commerce app development",
+            "business requirements",
+            "multi-country and multi-currency support",
+            "product variation support",
+            "built-in wallet functionality",
+            "secure online payment systems",
+            "online/offline carts",
+            "immersive shopping experiences",
+            "e-commerce applications",
+            "developer portfolio",
+        ],
         "main-media-url": "assets/img/portfolio/brandy-one.jpg",
         "media-url": ["assets/img/portfolio/brandy-one.jpg",],
         "category": "App development",
@@ -193,6 +217,18 @@ const projects = [
             <p>بالإضافة إلى الميزات الأساسية للتجارة الإلكترونية، أدمج وظائف إضافية مثل التوصيات الشخصية وآراء المستخدمين وتتبع الطلبات. تلك الميزات تعزز تجربة المستخدم وتسهل على العملاء العثور على المنتجات التي يحتاجونها وتتبع طلباتهم.</p>
             <p>بفضل التركيز الكبير على واجهة المستخدم وتصميم تجربة المستخدم، يوفر موقعي الشخصي واجهة مرئية جذابة وسهلة الاستخدام تسهل عملية التنقل واكتشاف المنتجات بسهولة. من خلال التركيز على راحة المستخدم، أهدف إلى إنشاء تجربة تسوق جذابة ومرضية للعملاء.</p>
         `,
+        "keyword": [
+            "developer portfolio",
+            "online cart functionality",
+            "secure online shopping experience",
+            "seamless checkout process",
+            "personalized recommendations",
+            "user interface design",
+            "user experience design",
+            "intuitive navigation",
+            "product discovery",
+            "engaging shopping experience",
+        ],
         "main-media-url": "assets/img/portfolio/sa-dan.jpg",
         "media-url": ["assets/img/portfolio/sa-dan.jpg",],
         "category": "App development",
@@ -280,6 +316,22 @@ const projects = [
             
             <p>لتعزيز تجربة التسوق بشكل أكبر، يتضمن التطبيق وظيفة محفظة مدمجة للدفعات الإلكترونية، مما يتيح للمستخدمين تخزين بيانات الدفع وإتمام المعاملات بثقة. من خلال تنفيذ إجراءات أمان قوية، أضمن حماية البيانات الحساسة وبناء ثقة المستخدمين.</p>
         `,
+        "keyword": [
+            "developer portfolio",
+            "fashion app",
+            "personalized experiences",
+            "dynamic customization",
+            "dynamic forms",
+            "secure payment integration",
+            "payment gateway integration",
+            "online payments",
+            "intuitive user interface",
+            "user-friendly interface",
+            "visually appealing layout",
+            "intuitive navigation",
+            "engaging user experience",
+            "tailored recommendations",
+        ],
         "main-media-url": "assets/img/portfolio/black-point.jpg",
         "media-url": ["assets/img/portfolio/black-point.jpg",],
         "category": "App development",
@@ -338,6 +390,26 @@ const projects = [
             <p>لتمكين البائعين، يقدم إنتاجي لوحة للبائعين شاملة. توفر هذه اللوحة للبائعين رؤى قيمة، مثل أداء المبيعات وإدارة المخزون وتتبع الطلبات. من خلال هذه الواجهة المستخدمة بسهولة، يمكن للبائعين إدارة منتجاتهم بكفاءة وتبسيط العمليات وتعزيز نمو الأعمال.</p>
             <p>في موقعي الشخصي، ستشهد التزامي بإنشاء تجارب سلسة وسهلة الاستخدام للعملاء والبائعين على حد سواء. من خلال استغلال مهاراتي في البرمجة، قمت بتطوير إنتاجي ليكون منصة تجارة إلكترونية موثوقة ومتطورة تلبي احتياجات السوق السعودية الفريدة.</p>
         `,
+        "keyword": [
+            "developer portfolio",
+            "e-commerce solutions",
+            "e-commerce app",
+            "user-friendly applications",
+            "multi-user support",
+            "personalized accounts",
+            "online shopping experiences",
+            "multiple languages",
+            "localized experience",
+            "online cart functionality",
+            "wishlist feature",
+            "shopping convenience",
+            "seller dashboard",
+            "sales performance",
+            "inventory management",
+            "order tracking",
+            "intuitive interface",
+            "feature-rich e-commerce platform",
+        ],
         "main-media-url": "assets/img/portfolio/entaji.jpg",
         "media-url": ["assets/img/portfolio/entaji.jpg",],
         "category": "App development",
