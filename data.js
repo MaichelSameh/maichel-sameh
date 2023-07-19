@@ -463,6 +463,16 @@ const projects = [
             <p>بالإضافة إلى ذلك، يتضمن التطبيق سلة شراء عبر الإنترنت تمكن المستخدمين من تصفح واختيار خدمات السيارات، حجز مواعيد، وإتمام عمليات الدفع عبر الإنترنت بكل سهولة. يوفر هذا الوظيفة سلة الشراء الإلكترونية تسهيل عملية الوصول إلى خدمات السيارات وتعزيز تجربة المستخدم العامة.</p>
             <p>عبر موقعي الشخصي، ستشهد التزامي بإنشاء تجارب مستخدم متمحورة حول الشخص. من خلال استخدام مهاراتي في البرمجة، قمت بتطوير "آيلاند أوتو" ليكون تطبيقًا موثوقًا ومتطورًا يحدث ثورة في طريقة الوصول إلى خدمات السيارات والتفاعل معها.</p>
         `,
+        "keyword": [
+            "Cutting-edge solutions",
+            "Online car services",
+            "Island Auto",
+            "Multi-language support",
+            "Maps integration",
+            "Nearby car services",
+            "Bookings and online payments",
+            "Revolutionize car services",
+        ],
         "main-media-url": "assets/img/portfolio/island-auto.jpg",
         "media-url": ["assets/img/portfolio/island-auto.jpg",],
         "category": "App development",
@@ -514,6 +524,19 @@ const projects = [
         <p>تطبيق "آيلاند أوتو" هو تطبيق متقدم يقدم مجموعة شاملة من الخدمات المتعلقة بالسيارات. يعرض موقعي الشخصي قدرتي على تطوير التطبيق وإضافة الميزات المبتكرة مثل دعم عدة لغات لجعله يدعم المستخدمين من مختلف الثقافات، وتحويل العملات لمساعدة المستخدمين على تحويل العملات بناءً على الأسعار الحالية، وتوفير توقعات الطقس للمساعدة في التخطيط، وحجز رحلات الطيران لتيسير عملية السفر.</p>
         <p>من خلال موقعي الشخصي، ستتعرف على التزامي بإنشاء تجارب مستخدم متميزة وموثوقة في مجال تطبيقات الطقس. باستخدام مهاراتي في البرمجة، قمت بتطوير تطبيق "آيلاند أوتو" ليكون تطبيقًا شاملاً ويوفر تجربة استخدام ممتازة للمستخدمين.</p>
         `,
+        "keyword": [
+            "Weather applications",
+            "Weather app",
+            "Accurate weather information",
+            "Up-to-date weather forecasts",
+            "Multi-language support",
+            "Currency conversion functionality",
+            "Exchange rates",
+            "Flight trip booking",
+            "Travel planning features",
+            "Comprehensive weather forecasts",
+            "Reliable weather information",
+        ],
         "main-media-url": "assets/img/portfolio/my-boarding.jpg",
         "media-url": ["assets/img/portfolio/my-boarding.jpg",],
         "category": "App development",
@@ -569,6 +592,21 @@ const projects = [
             <p>تقدم تطبيقات التعليم الخاصة بي مجموعة واسعة من الدورات التعليمية عبر مختلف المواضيع. تم اختيار هذه الدورات بعناية وتم تصميمها لتقديم معرفة ومهارات قيمة للمتعلمين من جميع المستويات. بالإضافة إلى ذلك، يتم تضمين اختبارات تفاعلية ضمن الدورات لتقييم فهم المتعلمين وتعزيز نتائج التعلم لديهم.</p>
             <p>عبر موقعي الشخصي، ستشهد التزامي بإنشاء حلول تعليمية تتمحور حول تجربة المستخدم. من خلال استغلال مهاراتي في البرمجة، قمت بتطوير تطبيقات تعليمية تضع تجربة المستخدم والتفاعلية والوصولية في مقدمة الاعتبار، مما يجعل التعلم شيقًا ومريحًا وفعالًا.</p>
         `,
+        "keyword": [
+            "Innovative apps",
+            "E-learning app development",
+            "Multi-language support",
+            "Personalized learning experience",
+            "Apple Pay",
+            "Google Pay",
+            "Secure payment experience",
+            "Robust video player",
+            "Interactive features",
+            "Progress tracking",
+            "Online courses",
+            "Curated courses",
+            "Interactive quizzes",
+        ],
         "main-media-url": "assets/img/portfolio/submit-edu.jpg",
         "media-url": ["assets/img/portfolio/submit-edu.jpg",],
         "category": "App development",
@@ -625,6 +663,20 @@ const projects = [
             <p>ميزات الراحة مثل سلة الشراء عبر الإنترنت وقائمة الرغبات هي عناصر أساسية في تطبيقات التجارة الإلكترونية الخاصة بي. تتيح سلة الشراء عبر الإنترنت للمستخدمين إضافة المنتجات ومراجعة اختياراتهم والمضي قدمًا في عملية الدفع بسلاسة. تتيح ميزة قائمة الرغبات للمستخدمين حفظ المنتجات للرجوع إليها في المستقبل أو الشراء، مما يعزز مشاركة المستخدم ويسهل تجارب التسوق الشخصية.</p>
             <p>عبر موقعي الشخصي، ستشهد التزامي بإنشاء حلول متجهة نحو المستخدم في مجال التجارة الإلكترونية. من خلال استغلال مهاراتي في البرمجة، قمت بتطوير تطبيقات تعزز تجربة المستخدم والدفع عبر الإنترنت السلس، والدمج مع الخرائط، ودعم عدة لغات، وميزات ملائمة مثل سلة الشراء عبر الإنترنت وقائمة الرغبات.</p>
         `,
+        "keyword": [
+            "E-commerce app development",
+            "Seamless online shopping experiences",
+            "Multi-language support",
+            "Localization",
+            "User engagement",
+            "Online payment integration",
+            "Secure payment gateways",
+            "Map integration",
+            "Nearby stores",
+            "Delivery tracking",
+            "Convenient shopping features",
+            "User-centric apps",
+        ],
         "main-media-url": "assets/img/portfolio/gorders.jpg",
         "media-url": ["assets/img/portfolio/gorders.jpg",],
         "category": "App development",
@@ -696,6 +748,23 @@ const projects = [
             <li>video player</li>
         </ul>
         `,
+        "keyword": [
+            "Innovative apps",
+            "Real estate app development",
+            "Feature-rich apps",
+            "Comprehensive real estate ads",
+            "Map integration",
+            "Property locations",
+            "Nearby amenities",
+            "Seller dashboard",
+            "Listing management",
+            "Communication with buyers",
+            "High-quality video player",
+            "Virtual property tours",
+            "Realistic property experience",
+            "Multi-language support",
+            "Personalized experience",
+        ],
         "main-media-url": "assets/img/portfolio/aqarko.jpg",
         "media-url": ["assets/img/portfolio/aqarko.jpg",],
         "category": "App development",
@@ -764,6 +833,28 @@ const projects = [
             <li>Traffic state</li>
         </ul>
         `,
+        "keyword": [
+            "Dynamic client applications",
+            "Uber and Careem",
+            "Seamless transportation experiences",
+            "Feature-rich apps",
+            "Advanced functionalities",
+            "Google Maps integration",
+            "Interactive maps",
+            "Accurate route suggestions",
+            "Multiple languages support",
+            "Localized and personalized experience",
+            "Notifications",
+            "Chat functionality",
+            "Real-time updates",
+            "Socket implementation",
+            "Real-time ride tracking",
+            "Ride history management",
+            "Route suggestions",
+            "Traffic conditions",
+            "Estimated arrival times",
+            "Live traffic updates",
+        ],
         "main-media-url": "assets/img/portfolio/car-way-client.jpg",
         "media-url": ["assets/img/portfolio/car-way-client.jpg",],
         "category": "App development",
@@ -832,6 +923,28 @@ const projects = [
             <li>Traffic state</li>
         </ul>
         `,
+        "keyword": [
+            "Dynamic client applications",
+            "Uber and Careem",
+            "Seamless transportation experiences",
+            "Feature-rich apps",
+            "Advanced functionalities",
+            "Google Maps integration",
+            "Interactive maps",
+            "Accurate route suggestions",
+            "Multiple languages support",
+            "Localized and personalized experience",
+            "Notifications",
+            "Chat functionality",
+            "Real-time updates",
+            "Socket implementation",
+            "Real-time ride tracking",
+            "Ride history management",
+            "Route suggestions",
+            "Traffic conditions",
+            "Estimated arrival times",
+            "Live traffic updates",
+        ],
         "main-media-url": "assets/img/portfolio/car-way-driver.jpg",
         "media-url": ["assets/img/portfolio/car-way-driver.jpg",],
         "category": "App development",
@@ -890,6 +1003,21 @@ const projects = [
             <li>Notifications</li>
         </ul>
         `,
+        "keyword": [
+            "App for parents to find schools",
+            "User-friendly platform",
+            "Education search process",
+            "Comprehensive seller dashboard",
+            "Educational institutions",
+            "Marketing services",
+            "Google Maps integration",
+            "Nearby schools and institutes",
+            "Interactive maps",
+            "Online payment functionality",
+            "Secure payments",
+            "Multi-language support",
+            "Personalized experience",
+        ],
         "main-media-url": "assets/img/portfolio/dalel-taleam.jpg",
         "media-url": ["assets/img/portfolio/dalel-taleam.jpg",],
         "category": "App development",
@@ -920,6 +1048,8 @@ const projects = [
             <li>Notifications</li>
         </ul>
         `,
+        "keyword": [
+        ],
         "main-media-url": "assets/img/portfolio/first-care.jpg",
         "media-url": ["assets/img/portfolio/first-care.jpg",],
         "category": "App development",
@@ -976,6 +1106,25 @@ const projects = [
             <li>Book card</li>
         </ul>
         `,
+        "keyword": [
+            "Discount cards app",
+            "Seamless user experiences",
+            "Value and savings",
+            "User-friendly interfaces",
+            "Programming skills",
+            "Exclusive deals and savings",
+            "Google Maps integration",
+            "Nearby merchants offering discounts",
+            "Multi-language support",
+            "Personalized experience",
+            "Effortless navigation",
+            "Secure online payment options",
+            "Trusted payment gateways",
+            "Seamless transaction process",
+            "Meticulous attention to detail",
+            "Robust backend systems",
+            "Delightful user experience",
+        ],
         "main-media-url": "assets/img/portfolio/joud.jpg",
         "media-url": ["assets/img/portfolio/joud.jpg",],
         "category": "App development",
@@ -1076,27 +1225,31 @@ const languageLeveLText = {
 }
 
 const generalData = {
+    // "about": `
+    //     <p>Hey there, I'm Michael Sameh – your Flutter magician straight out of the vibrant city of Cairo, Egypt!</p>
+    //     <p>As a mid-level Flutter developer, I've been conjuring up mesmerizing mobile applications that leave users absolutely enchanted. But here's the exciting part – I'm not your run-of-the-mill developer! 🌟</p>
+
+    //     <p>You see, I've mastered the art of time management, effortlessly handling deadlines like a pro, all while being a university student! 🎓⏳ It's like juggling flaming hoops while riding a unicycle – thrilling and invigorating!</p>
+
+    //     <p>My portfolio reads like an epic adventure, with a diverse array of applications crafted for various companies and industries. From dynamic API-driven wonders that dance with real-time data to locally stored gems, my creations stand out with a magical touch! 💻💫</p>
+
+    //     <p>Oh, and I'm not just an expert on the frontend; I've delved into the mysteries of Firebase and NoSQL databases too! 🔥🔍 Crafting robust backends that can handle any challenge is my specialty – it's like building the foundations of a digital kingdom!</p>
+
+    //     <p>But beyond my love for coding, there's a deeper passion that fuels me. 🌟 I dream of using my knowledge and experience to help others turn their visions into reality. Whether you're an ambitious entrepreneur or a budding developer, count on me to be your trusted ally! 🌈🚀</p>
+
+    //     <p>Ready to embark on an extraordinary journey together? 🎉 The magic starts now! Don't miss this chance to collaborate and create digital marvels that leave a lasting mark on the world. 🌎🚀💫 So, let's connect, and let your imagination come to life with the touch of my Flutter wand! 🪄✨</p>
+
+    //     <p>Contact me now, and let's make some magic together! 📧
+    // `,
     "about": `
-    Hi, here is Micheal Sameh a mid-level Flutter developer from Egypt, Cairo.
-    <br>
-    <br>
-    Micheal is a hard worker with excellent time management who can fit deadlines. Using this skill Micheal
-    is able to work while he is still a student in the first year of the university.
-    <br>
-    <br>
-    Micheal has developed various applications for many companies in different areas, not only static apps
-    or locally stored applications but also applications that utilize API and real-time.
-    <br>
-    <br>
-    Micheal has a lot of experience not only with APIs but also with firebase and NoSQL databases.
-    <br>
-    <br>
-    Micheal is a talented person that has a dream, he wants to gain knowledge and experience so that he can
-    help others develop their dream business or software.
-    <br>
-    <br>
-    Don't miss the chance to get in touch :)
-    <br>`,
+        <p>Welcome to the world of Michael Sameh, an accomplished Flutter developer with a flair for creating captivating mobile applications. With meticulous attention to detail and a touch of creativity, I craft solutions that leave users spellbound.</p>
+        <p>As a mid-level Flutter developer, I pride myself on exceptional time management skills, enabling me to handle deadlines and project demands with ease and precision. Even as a student, I embrace challenges head-on, making every project a triumph of determination and skill.</p>
+        <p>My portfolio showcases a diverse array of applications designed for various companies and industries. From dynamic API-integrated solutions harnessing real-time data to elegantly crafted locally stored apps, each project reflects my commitment to innovation and user-centric experiences.</p>
+        <p>While my expertise lies in frontend development, I'm no stranger to backend technologies. Proficient in Firebase and NoSQL databases, I construct robust infrastructures that stand the test of time and ensure seamless functionality.</p>
+        <p>Beyond my technical acumen, I'm driven by a deeper aspiration – to empower others with my knowledge and experience. Whether it's helping entrepreneurs realize their business visions or guiding aspiring developers on their journey, I find fulfillment in being a catalyst for success.</p>
+        <p>Now, I extend an invitation to collaborate on an extraordinary endeavor. Together, let's unlock the full potential of Flutter and create digital marvels that elevate your ideas to new heights.</p>
+        <p>Embrace the magic of technology and witness your vision come to life. Reach out, and let's embark on this captivating journey together!</p>
+    `,
     "email": "contact@maichelsameh.com",
     "address": "First 6th of October, Giza Governorate",
     "location": "https://www.google.com/maps/@29.9568559,30.9302598,15z",
