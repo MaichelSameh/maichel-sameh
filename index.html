@@ -333,6 +333,7 @@
         <div class="row portfolio-container">
 
           <script>
+            console.log(projects.length);
             let sortedProjectsByImportance = projects.sort(
               function (objA, objB) {
                 return objA["importance"].toString().localeCompare(objB["importance"].toString());

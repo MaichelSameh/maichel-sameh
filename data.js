@@ -103,7 +103,7 @@ const projects = [
             "assets/img/portfolio/real-attend/Dribble show 14-three-screens.png",
             "assets/img/portfolio/real-attend/Dribble show 11-three-screens.png",
             "assets/img/portfolio/real-attend/Dribble show 8-random-screens.png",
-    ],
+        ],
         "category": "App development",
         "client": "Arab Badia",
         "app-links": {
@@ -172,7 +172,21 @@ const projects = [
             "developer portfolio",
         ],
         "main-media-url": "assets/img/portfolio/brandy-one/cover.png",
-        "media-url": ["assets/img/portfolio/brandy-one/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/brandy-one/cover.png",
+            "assets/img/portfolio/brandy-one/example-1.png",
+            "assets/img/portfolio/brandy-one/example-2.png",
+            "assets/img/portfolio/brandy-one/example-3.png",
+            "assets/img/portfolio/brandy-one/example-4.png",
+            "assets/img/portfolio/brandy-one/example-5.png",
+            "assets/img/portfolio/brandy-one/example-6.png",
+            "assets/img/portfolio/brandy-one/example-7.png",
+            "assets/img/portfolio/brandy-one/example-8.png",
+            "assets/img/portfolio/brandy-one/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/brandy-one/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/brandy-one/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/brandy-one/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -244,7 +258,21 @@ const projects = [
             "engaging shopping experience",
         ],
         "main-media-url": "assets/img/portfolio/sa-dan/cover.png",
-        "media-url": ["assets/img/portfolio/sa-dan/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/sa-dan/cover.png",
+            "assets/img/portfolio/sa-dan/example-1.png",
+            "assets/img/portfolio/sa-dan/example-2.png",
+            "assets/img/portfolio/sa-dan/example-3.png",
+            "assets/img/portfolio/sa-dan/example-4.png",
+            "assets/img/portfolio/sa-dan/example-5.png",
+            "assets/img/portfolio/sa-dan/example-6.png",
+            "assets/img/portfolio/sa-dan/example-7.png",
+            "assets/img/portfolio/sa-dan/example-8.png",
+            "assets/img/portfolio/sa-dan/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/sa-dan/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/sa-dan/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/sa-dan/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -347,7 +375,21 @@ const projects = [
             "tailored recommendations",
         ],
         "main-media-url": "assets/img/portfolio/black-point/cover.png",
-        "media-url": ["assets/img/portfolio/black-point/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/black-point/cover.png",
+            "assets/img/portfolio/black-point/example-1.png",
+            "assets/img/portfolio/black-point/example-2.png",
+            "assets/img/portfolio/black-point/example-3.png",
+            "assets/img/portfolio/black-point/example-4.png",
+            "assets/img/portfolio/black-point/example-5.png",
+            "assets/img/portfolio/black-point/example-6.png",
+            "assets/img/portfolio/black-point/example-7.png",
+            "assets/img/portfolio/black-point/example-8.png",
+            "assets/img/portfolio/black-point/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/black-point/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/black-point/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/black-point/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -425,7 +467,21 @@ const projects = [
             "feature-rich e-commerce platform",
         ],
         "main-media-url": "assets/img/portfolio/entaji/cover.png",
-        "media-url": ["assets/img/portfolio/entaji/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/entaji/cover.png",
+            "assets/img/portfolio/entaji/example-1.png",
+            "assets/img/portfolio/entaji/example-2.png",
+            "assets/img/portfolio/entaji/example-3.png",
+            "assets/img/portfolio/entaji/example-4.png",
+            "assets/img/portfolio/entaji/example-5.png",
+            "assets/img/portfolio/entaji/example-6.png",
+            "assets/img/portfolio/entaji/example-7.png",
+            "assets/img/portfolio/entaji/example-8.png",
+            "assets/img/portfolio/entaji/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/entaji/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/entaji/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/entaji/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -488,7 +544,21 @@ const projects = [
             "Revolutionize car services",
         ],
         "main-media-url": "assets/img/portfolio/island-auto/cover.png",
-        "media-url": ["assets/img/portfolio/island-auto/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/island-auto/cover.png",
+            "assets/img/portfolio/island-auto/example-1.png",
+            "assets/img/portfolio/island-auto/example-2.png",
+            "assets/img/portfolio/island-auto/example-3.png",
+            "assets/img/portfolio/island-auto/example-4.png",
+            "assets/img/portfolio/island-auto/example-5.png",
+            "assets/img/portfolio/island-auto/example-6.png",
+            "assets/img/portfolio/island-auto/example-7.png",
+            "assets/img/portfolio/island-auto/example-8.png",
+            "assets/img/portfolio/island-auto/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/island-auto/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/island-auto/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/island-auto/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -552,7 +622,21 @@ const projects = [
             "Reliable weather information",
         ],
         "main-media-url": "assets/img/portfolio/my-boarding/cover.png",
-        "media-url": ["assets/img/portfolio/my-boarding/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/my-boarding/cover.png",
+            "assets/img/portfolio/my-boarding/example-1.png",
+            "assets/img/portfolio/my-boarding/example-2.png",
+            "assets/img/portfolio/my-boarding/example-3.png",
+            "assets/img/portfolio/my-boarding/example-4.png",
+            "assets/img/portfolio/my-boarding/example-5.png",
+            "assets/img/portfolio/my-boarding/example-6.png",
+            "assets/img/portfolio/my-boarding/example-7.png",
+            "assets/img/portfolio/my-boarding/example-8.png",
+            "assets/img/portfolio/my-boarding/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/my-boarding/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/my-boarding/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/my-boarding/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -622,7 +706,21 @@ const projects = [
             "Interactive quizzes",
         ],
         "main-media-url": "assets/img/portfolio/submit-edu/cover.png",
-        "media-url": ["assets/img/portfolio/submit-edu/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/submit-edu/cover.png",
+            "assets/img/portfolio/submit-edu/example-1.png",
+            "assets/img/portfolio/submit-edu/example-2.png",
+            "assets/img/portfolio/submit-edu/example-3.png",
+            "assets/img/portfolio/submit-edu/example-4.png",
+            "assets/img/portfolio/submit-edu/example-5.png",
+            "assets/img/portfolio/submit-edu/example-6.png",
+            "assets/img/portfolio/submit-edu/example-7.png",
+            "assets/img/portfolio/submit-edu/example-8.png",
+            "assets/img/portfolio/submit-edu/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/submit-edu/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/submit-edu/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/submit-edu/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -692,7 +790,21 @@ const projects = [
             "User-centric apps",
         ],
         "main-media-url": "assets/img/portfolio/gorders/cover.png",
-        "media-url": ["assets/img/portfolio/gorders/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/gorders/cover.png",
+            "assets/img/portfolio/gorders/example-1.png",
+            "assets/img/portfolio/gorders/example-2.png",
+            "assets/img/portfolio/gorders/example-3.png",
+            "assets/img/portfolio/gorders/example-4.png",
+            "assets/img/portfolio/gorders/example-5.png",
+            "assets/img/portfolio/gorders/example-6.png",
+            "assets/img/portfolio/gorders/example-7.png",
+            "assets/img/portfolio/gorders/example-8.png",
+            "assets/img/portfolio/gorders/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/gorders/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/gorders/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/gorders/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -780,7 +892,21 @@ const projects = [
             "Personalized experience",
         ],
         "main-media-url": "assets/img/portfolio/aqarko/cover.png",
-        "media-url": ["assets/img/portfolio/aqarko/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/aqarko/cover.png",
+            "assets/img/portfolio/aqarko/example-1.png",
+            "assets/img/portfolio/aqarko/example-2.png",
+            "assets/img/portfolio/aqarko/example-3.png",
+            "assets/img/portfolio/aqarko/example-4.png",
+            "assets/img/portfolio/aqarko/example-5.png",
+            "assets/img/portfolio/aqarko/example-6.png",
+            "assets/img/portfolio/aqarko/example-7.png",
+            "assets/img/portfolio/aqarko/example-8.png",
+            "assets/img/portfolio/aqarko/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/aqarko/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/aqarko/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/aqarko/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -870,7 +996,21 @@ const projects = [
             "Live traffic updates",
         ],
         "main-media-url": "assets/img/portfolio/car-way-client/cover.png",
-        "media-url": ["assets/img/portfolio/car-way-client/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/car-way-client/cover.png",
+            "assets/img/portfolio/car-way-client/example-1.png",
+            "assets/img/portfolio/car-way-client/example-2.png",
+            "assets/img/portfolio/car-way-client/example-3.png",
+            "assets/img/portfolio/car-way-client/example-4.png",
+            "assets/img/portfolio/car-way-client/example-5.png",
+            "assets/img/portfolio/car-way-client/example-6.png",
+            "assets/img/portfolio/car-way-client/example-7.png",
+            "assets/img/portfolio/car-way-client/example-8.png",
+            "assets/img/portfolio/car-way-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/car-way-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/car-way-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/car-way-client/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -960,7 +1100,21 @@ const projects = [
             "Live traffic updates",
         ],
         "main-media-url": "assets/img/portfolio/car-way-driver/cover.png",
-        "media-url": ["assets/img/portfolio/car-way-driver/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/car-way-driver/cover.png",
+            "assets/img/portfolio/car-way-driver/example-1.png",
+            "assets/img/portfolio/car-way-driver/example-2.png",
+            "assets/img/portfolio/car-way-driver/example-3.png",
+            "assets/img/portfolio/car-way-driver/example-4.png",
+            "assets/img/portfolio/car-way-driver/example-5.png",
+            "assets/img/portfolio/car-way-driver/example-6.png",
+            "assets/img/portfolio/car-way-driver/example-7.png",
+            "assets/img/portfolio/car-way-driver/example-8.png",
+            "assets/img/portfolio/car-way-driver/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/car-way-driver/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/car-way-driver/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/car-way-driver/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1033,7 +1187,21 @@ const projects = [
             "Personalized experience",
         ],
         "main-media-url": "assets/img/portfolio/dalel/cover.png",
-        "media-url": ["assets/img/portfolio/dalel/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/dalel/cover.png",
+            "assets/img/portfolio/dalel/example-1.png",
+            "assets/img/portfolio/dalel/example-2.png",
+            "assets/img/portfolio/dalel/example-3.png",
+            "assets/img/portfolio/dalel/example-4.png",
+            "assets/img/portfolio/dalel/example-5.png",
+            "assets/img/portfolio/dalel/example-6.png",
+            "assets/img/portfolio/dalel/example-7.png",
+            "assets/img/portfolio/dalel/example-8.png",
+            "assets/img/portfolio/dalel/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/dalel/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/dalel/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/dalel/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1065,7 +1233,21 @@ const projects = [
         "keyword": [
         ],
         "main-media-url": "assets/img/portfolio/first-care/cover.png",
-        "media-url": ["assets/img/portfolio/first-care/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/first-care/cover.png",
+            "assets/img/portfolio/first-care/example-1.png",
+            "assets/img/portfolio/first-care/example-2.png",
+            "assets/img/portfolio/first-care/example-3.png",
+            "assets/img/portfolio/first-care/example-4.png",
+            "assets/img/portfolio/first-care/example-5.png",
+            "assets/img/portfolio/first-care/example-6.png",
+            "assets/img/portfolio/first-care/example-7.png",
+            "assets/img/portfolio/first-care/example-8.png",
+            "assets/img/portfolio/first-care/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/first-care/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/first-care/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/first-care/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1140,7 +1322,21 @@ const projects = [
             "Delightful user experience",
         ],
         "main-media-url": "assets/img/portfolio/joud/cover.png",
-        "media-url": ["assets/img/portfolio/joud/cover.png",],
+        "media-url": [
+            "assets/img/portfolio/joud/cover.png",
+            "assets/img/portfolio/joud/example-1.png",
+            "assets/img/portfolio/joud/example-2.png",
+            "assets/img/portfolio/joud/example-3.png",
+            "assets/img/portfolio/joud/example-4.png",
+            "assets/img/portfolio/joud/example-5.png",
+            "assets/img/portfolio/joud/example-6.png",
+            "assets/img/portfolio/joud/example-7.png",
+            "assets/img/portfolio/joud/example-8.png",
+            "assets/img/portfolio/joud/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/joud/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/joud/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/joud/Dribble show 8-random-screens.png",
+        ],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1149,6 +1345,703 @@ const projects = [
         },
         "duration": "month",
         "date": "2022-12-28",
+    },
+    {
+        "title": "Costly",
+        "importance": 1,
+        "hidden": false,
+        "id": "costly",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/costly/cover.png",
+        "media-url": [
+            "assets/img/portfolio/costly/cover.png",
+            "assets/img/portfolio/costly/example-1.png",
+            "assets/img/portfolio/costly/example-2.png",
+            "assets/img/portfolio/costly/example-3.png",
+            "assets/img/portfolio/costly/example-4.png",
+            "assets/img/portfolio/costly/example-5.png",
+            "assets/img/portfolio/costly/example-6.png",
+            "assets/img/portfolio/costly/example-7.png",
+            "assets/img/portfolio/costly/example-8.png",
+            "assets/img/portfolio/costly/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/costly/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/costly/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/costly/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Edustation",
+        "importance": 1,
+        "hidden": false,
+        "id": "edustation-client",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/edustation-client/cover.png",
+        "media-url": [
+            "assets/img/portfolio/edustation-client/cover.png",
+            "assets/img/portfolio/edustation-client/example-1.png",
+            "assets/img/portfolio/edustation-client/example-2.png",
+            "assets/img/portfolio/edustation-client/example-3.png",
+            "assets/img/portfolio/edustation-client/example-4.png",
+            "assets/img/portfolio/edustation-client/example-5.png",
+            "assets/img/portfolio/edustation-client/example-6.png",
+            "assets/img/portfolio/edustation-client/example-7.png",
+            "assets/img/portfolio/edustation-client/example-8.png",
+            "assets/img/portfolio/edustation-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/edustation-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/edustation-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/edustation-client/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Edustation provider",
+        "importance": 1,
+        "hidden": false,
+        "id": "edustation-provider",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/edustation-provider/cover.png",
+        "media-url": [
+            "assets/img/portfolio/edustation-provider/cover.png",
+            "assets/img/portfolio/edustation-provider/example-1.png",
+            "assets/img/portfolio/edustation-provider/example-2.png",
+            "assets/img/portfolio/edustation-provider/example-3.png",
+            "assets/img/portfolio/edustation-provider/example-4.png",
+            "assets/img/portfolio/edustation-provider/example-5.png",
+            "assets/img/portfolio/edustation-provider/example-6.png",
+            "assets/img/portfolio/edustation-provider/example-7.png",
+            "assets/img/portfolio/edustation-provider/example-8.png",
+            "assets/img/portfolio/edustation-provider/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/edustation-provider/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/edustation-provider/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/edustation-provider/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Omedu provider",
+        "importance": 1,
+        "hidden": false,
+        "id": "omedu-provider",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/omedu-provider/cover.png",
+        "media-url": [
+            "assets/img/portfolio/omedu-provider/cover.png",
+            "assets/img/portfolio/omedu-provider/example-1.png",
+            "assets/img/portfolio/omedu-provider/example-2.png",
+            "assets/img/portfolio/omedu-provider/example-3.png",
+            "assets/img/portfolio/omedu-provider/example-4.png",
+            "assets/img/portfolio/omedu-provider/example-5.png",
+            "assets/img/portfolio/omedu-provider/example-6.png",
+            "assets/img/portfolio/omedu-provider/example-7.png",
+            "assets/img/portfolio/omedu-provider/example-8.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Omedu",
+        "importance": 1,
+        "hidden": false,
+        "id": "omedu-client",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/omedu-client/cover.png",
+        "media-url": [
+            "assets/img/portfolio/omedu-client/cover.png",
+            "assets/img/portfolio/omedu-client/example-1.png",
+            "assets/img/portfolio/omedu-client/example-2.png",
+            "assets/img/portfolio/omedu-client/example-3.png",
+            "assets/img/portfolio/omedu-client/example-4.png",
+            "assets/img/portfolio/omedu-client/example-5.png",
+            "assets/img/portfolio/omedu-client/example-6.png",
+            "assets/img/portfolio/omedu-client/example-7.png",
+            "assets/img/portfolio/omedu-client/example-8.png",
+            "assets/img/portfolio/omedu-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/omedu-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/omedu-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/omedu-client/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "OT",
+        "importance": 1,
+        "hidden": false,
+        "id": "ot",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/ot/cover.png",
+        "media-url": [
+            "assets/img/portfolio/ot/cover.png",
+            "assets/img/portfolio/ot/example-1.png",
+            "assets/img/portfolio/ot/example-2.png",
+            "assets/img/portfolio/ot/example-3.png",
+            "assets/img/portfolio/ot/example-4.png",
+            "assets/img/portfolio/ot/example-5.png",
+            "assets/img/portfolio/ot/example-6.png",
+            "assets/img/portfolio/ot/example-7.png",
+            "assets/img/portfolio/ot/example-8.png",
+            "assets/img/portfolio/ot/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/ot/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/ot/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/ot/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Popeye",
+        "importance": 1,
+        "hidden": false,
+        "id": "popeye",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/popeye/cover.png",
+        "media-url": [
+            "assets/img/portfolio/popeye/cover.png",
+            "assets/img/portfolio/popeye/example-1.png",
+            "assets/img/portfolio/popeye/example-2.png",
+            "assets/img/portfolio/popeye/example-3.png",
+            "assets/img/portfolio/popeye/example-4.png",
+            "assets/img/portfolio/popeye/example-5.png",
+            "assets/img/portfolio/popeye/example-6.png",
+            "assets/img/portfolio/popeye/example-7.png",
+            "assets/img/portfolio/popeye/example-8.png",
+            "assets/img/portfolio/popeye/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/popeye/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/popeye/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/popeye/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Qatar home",
+        "importance": 1,
+        "hidden": false,
+        "id": "qatar-home",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/qatar-home/cover.png",
+        "media-url": [
+            "assets/img/portfolio/qatar-home/cover.png",
+            "assets/img/portfolio/qatar-home/example-1.png",
+            "assets/img/portfolio/qatar-home/example-2.png",
+            "assets/img/portfolio/qatar-home/example-3.png",
+            "assets/img/portfolio/qatar-home/example-4.png",
+            "assets/img/portfolio/qatar-home/example-5.png",
+            "assets/img/portfolio/qatar-home/example-6.png",
+            "assets/img/portfolio/qatar-home/example-7.png",
+            "assets/img/portfolio/qatar-home/example-8.png",
+            "assets/img/portfolio/qatar-home/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/qatar-home/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/qatar-home/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/qatar-home/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Salonat",
+        "importance": 1,
+        "hidden": false,
+        "id": "salonat",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/salonat-client/cover.png",
+        "media-url": [
+            "assets/img/portfolio/salonat-client/cover.png",
+            "assets/img/portfolio/salonat-client/provider.png",
+            "assets/img/portfolio/salonat-client/example-1.png",
+            "assets/img/portfolio/salonat-provider/example-1.png",
+            "assets/img/portfolio/salonat-client/example-2.png",
+            "assets/img/portfolio/salonat-provider/example-2.png",
+            "assets/img/portfolio/salonat-client/example-3.png",
+            "assets/img/portfolio/salonat-provider/example-3.png",
+            "assets/img/portfolio/salonat-client/example-4.png",
+            "assets/img/portfolio/salonat-provider/example-4.png",
+            "assets/img/portfolio/salonat-client/example-5.png",
+            "assets/img/portfolio/salonat-provider/example-5.png",
+            "assets/img/portfolio/salonat-client/example-6.png",
+            "assets/img/portfolio/salonat-provider/example-6.png",
+            "assets/img/portfolio/salonat-client/example-7.png",
+            "assets/img/portfolio/salonat-provider/example-7.png",
+            "assets/img/portfolio/salonat-client/example-8.png",
+            "assets/img/portfolio/salonat-provider/example-8.png",
+            "assets/img/portfolio/salonat-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/salonat-provider/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/salonat-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/salonat-provider/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/salonat-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/salonat-provider/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/salonat-client/Dribble show 8-random-screens.png",
+            "assets/img/portfolio/salonat-provider/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Shabab thanawy",
+        "importance": 1,
+        "hidden": false,
+        "id": "shabab-thanawy",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/shabab-thanawy/cover.png",
+        "media-url": [
+            "assets/img/portfolio/shabab-thanawy/cover.png",
+            "assets/img/portfolio/shabab-thanawy/example-1.png",
+            "assets/img/portfolio/shabab-thanawy/example-2.png",
+            "assets/img/portfolio/shabab-thanawy/example-3.png",
+            "assets/img/portfolio/shabab-thanawy/example-4.png",
+            "assets/img/portfolio/shabab-thanawy/example-5.png",
+            "assets/img/portfolio/shabab-thanawy/example-6.png",
+            "assets/img/portfolio/shabab-thanawy/example-7.png",
+            "assets/img/portfolio/shabab-thanawy/example-8.png",
+            "assets/img/portfolio/shabab-thanawy/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/shabab-thanawy/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/shabab-thanawy/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/shabab-thanawy/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Super eats",
+        "importance": 1,
+        "hidden": false,
+        "id": "super-eats-client",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/super-eats-client/cover.png",
+        "media-url": [
+            "assets/img/portfolio/super-eats-client/cover.png",
+            "assets/img/portfolio/super-eats-client/example-1.png",
+            "assets/img/portfolio/super-eats-client/example-2.png",
+            "assets/img/portfolio/super-eats-client/example-3.png",
+            "assets/img/portfolio/super-eats-client/example-4.png",
+            "assets/img/portfolio/super-eats-client/example-5.png",
+            "assets/img/portfolio/super-eats-client/example-6.png",
+            "assets/img/portfolio/super-eats-client/example-7.png",
+            "assets/img/portfolio/super-eats-client/example-8.png",
+            "assets/img/portfolio/super-eats-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/super-eats-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/super-eats-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/super-eats-client/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
+    },
+    {
+        "title": "Super eats provider",
+        "importance": 1,
+        "hidden": false,
+        "id": "super-eats-provider",
+        "filter": "app",
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+            
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
+        `,
+        "features": `
+        <br>
+        <em>App features</em>:
+        <ul>
+        </ul>
+        `,
+        "keyword": [
+        ],
+        "main-media-url": "assets/img/portfolio/super-eats-provider/cover.png",
+        "media-url": [
+            "assets/img/portfolio/super-eats-provider/cover.png",
+            "assets/img/portfolio/super-eats-provider/example-1.png",
+            "assets/img/portfolio/super-eats-provider/example-2.png",
+            "assets/img/portfolio/super-eats-provider/example-3.png",
+            "assets/img/portfolio/super-eats-provider/example-4.png",
+            "assets/img/portfolio/super-eats-provider/example-5.png",
+            "assets/img/portfolio/super-eats-provider/example-6.png",
+            "assets/img/portfolio/super-eats-provider/example-7.png",
+            "assets/img/portfolio/super-eats-provider/example-8.png",
+            "assets/img/portfolio/super-eats-provider/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/super-eats-provider/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/super-eats-provider/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/super-eats-provider/Dribble show 8-random-screens.png",
+        ],
+        "category": "App development",
+        "client": "Khlij",
+        "app-links": {
+            "google-play": "",
+            "app-store": "",
+        },
+        "duration": "",
+        "date": "",
     },
 ];
 
