@@ -97,6 +97,7 @@
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
                 <script>
+                  console.log(project["media-url"].length);
                   for (let i = 0; i < project["media-url"].length; i++) {
                     document.write(`
                     <div class="swiper-slide">
@@ -111,7 +112,7 @@
               <script>
                 document.write(`
                   <div>
-                    ${project["ar-full-description"]}
+                    ${project["full-description"]}
                   </div>
               `);
               </script>

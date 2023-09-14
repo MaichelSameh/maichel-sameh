@@ -89,7 +89,21 @@ const projects = [
         </ul>
         `,
         "main-media-url": "assets/img/portfolio/real-attend/cover.png",
-        "media-url": ["assets/img/portfolio/real-attend.jpg",],
+        "media-url": [
+            "assets/img/portfolio/real-attend/cover.png",
+            "assets/img/portfolio/real-attend/example-1.png",
+            "assets/img/portfolio/real-attend/example-2.png",
+            "assets/img/portfolio/real-attend/example-3.png",
+            "assets/img/portfolio/real-attend/example-4.png",
+            "assets/img/portfolio/real-attend/example-5.png",
+            "assets/img/portfolio/real-attend/example-6.png",
+            "assets/img/portfolio/real-attend/example-7.png",
+            "assets/img/portfolio/real-attend/example-8.png",
+            "assets/img/portfolio/real-attend/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/real-attend/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/real-attend/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/real-attend/Dribble show 8-random-screens.png",
+    ],
         "category": "App development",
         "client": "Arab Badia",
         "app-links": {
@@ -158,7 +172,7 @@ const projects = [
             "developer portfolio",
         ],
         "main-media-url": "assets/img/portfolio/brandy-one/cover.png",
-        "media-url": ["assets/img/portfolio/brandy-one.jpg",],
+        "media-url": ["assets/img/portfolio/brandy-one/cover.png",],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -230,7 +244,7 @@ const projects = [
             "engaging shopping experience",
         ],
         "main-media-url": "assets/img/portfolio/sa-dan/cover.png",
-        "media-url": ["assets/img/portfolio/sa-dan.jpg",],
+        "media-url": ["assets/img/portfolio/sa-dan/cover.png",],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -333,7 +347,7 @@ const projects = [
             "tailored recommendations",
         ],
         "main-media-url": "assets/img/portfolio/black-point/cover.png",
-        "media-url": ["assets/img/portfolio/black-point.jpg",],
+        "media-url": ["assets/img/portfolio/black-point/cover.png",],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -411,7 +425,7 @@ const projects = [
             "feature-rich e-commerce platform",
         ],
         "main-media-url": "assets/img/portfolio/entaji/cover.png",
-        "media-url": ["assets/img/portfolio/entaji.jpg",],
+        "media-url": ["assets/img/portfolio/entaji/cover.png",],
         "category": "App development",
         "client": "Khalij",
         "app-links": {
@@ -474,7 +488,7 @@ const projects = [
             "Revolutionize car services",
         ],
         "main-media-url": "assets/img/portfolio/island-auto/cover.png",
-        "media-url": ["assets/img/portfolio/island-auto.jpg",],
+        "media-url": ["assets/img/portfolio/island-auto/cover.png",],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -538,7 +552,7 @@ const projects = [
             "Reliable weather information",
         ],
         "main-media-url": "assets/img/portfolio/my-boarding/cover.png",
-        "media-url": ["assets/img/portfolio/my-boarding.jpg",],
+        "media-url": ["assets/img/portfolio/my-boarding/cover.png",],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -608,7 +622,7 @@ const projects = [
             "Interactive quizzes",
         ],
         "main-media-url": "assets/img/portfolio/submit-edu/cover.png",
-        "media-url": ["assets/img/portfolio/submit-edu.jpg",],
+        "media-url": ["assets/img/portfolio/submit-edu/cover.png",],
         "category": "App development",
         "client": "Mix-Code",
         "app-links": {
@@ -678,7 +692,7 @@ const projects = [
             "User-centric apps",
         ],
         "main-media-url": "assets/img/portfolio/gorders/cover.png",
-        "media-url": ["assets/img/portfolio/gorders.jpg",],
+        "media-url": ["assets/img/portfolio/gorders/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -766,7 +780,7 @@ const projects = [
             "Personalized experience",
         ],
         "main-media-url": "assets/img/portfolio/aqarko/cover.png",
-        "media-url": ["assets/img/portfolio/aqarko.jpg",],
+        "media-url": ["assets/img/portfolio/aqarko/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -856,7 +870,7 @@ const projects = [
             "Live traffic updates",
         ],
         "main-media-url": "assets/img/portfolio/car-way-client/cover.png",
-        "media-url": ["assets/img/portfolio/car-way-client.jpg",],
+        "media-url": ["assets/img/portfolio/car-way-client/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -946,7 +960,7 @@ const projects = [
             "Live traffic updates",
         ],
         "main-media-url": "assets/img/portfolio/car-way-driver/cover.png",
-        "media-url": ["assets/img/portfolio/car-way-driver.jpg",],
+        "media-url": ["assets/img/portfolio/car-way-driver/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1019,7 +1033,7 @@ const projects = [
             "Personalized experience",
         ],
         "main-media-url": "assets/img/portfolio/dalel/cover.png",
-        "media-url": ["assets/img/portfolio/dalel-taleam.jpg",],
+        "media-url": ["assets/img/portfolio/dalel/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1051,7 +1065,7 @@ const projects = [
         "keyword": [
         ],
         "main-media-url": "assets/img/portfolio/first-care/cover.png",
-        "media-url": ["assets/img/portfolio/first-care.jpg",],
+        "media-url": ["assets/img/portfolio/first-care/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
@@ -1126,7 +1140,7 @@ const projects = [
             "Delightful user experience",
         ],
         "main-media-url": "assets/img/portfolio/joud/cover.png",
-        "media-url": ["assets/img/portfolio/joud.jpg",],
+        "media-url": ["assets/img/portfolio/joud/cover.png",],
         "category": "App development",
         "client": "Khlij",
         "app-links": {
