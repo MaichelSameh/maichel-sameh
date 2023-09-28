@@ -9,24 +9,12 @@ const projects = [
         Efficient attendance system with registration, permission management, reports, and intuitive dashboard for streamlined workflows and enhanced performance management.
         `,
         "full-description": `
-        <p>Welcome to my developer portfolio, where I showcase my expertise in building comprehensive attendance systems tailored to the needs of businesses.
-        With a keen focus on programming skills, I have developed a robust application that efficiently manages various aspects of employee attendance, absence, vacations, and weekends.</p>
-        <p>One of the key features of my attendance system is the attendance registration module, which allows employees to easily log their attendance, whether they are in the office or working remotely.
-        Additionally, employees have the flexibility to request permission to be late or leave earlier, ensuring a seamless workflow and improved work-life balance.</p>
-        <p>To facilitate communication and streamline workflows, the system enables employees to send reports directly to their managers.
-        This feature promotes transparency and accountability within the organization, enabling managers to stay updated on their team's progress.</p>
-        <p>Furthermore, the attendance dashboard provides managers with a comprehensive overview of their employees' attendance records, permissions, and reports.
-        This intuitive interface allows managers to make informed decisions and promptly approve or deny permission requests.</p>
-        <p>To empower managers further, I have developed a mobile dashboard that enables them to keep a close eye on employee performance.
-        With this dashboard, managers can access real-time data and gain valuable insights into attendance patterns, productivity levels, and overall performance metrics.</p>
-        <p>By leveraging my programming skills, businesses can benefit from an advanced attendance system that enhances efficiency, streamlines permission management, and provides valuable insights into employee performance.
-        With my portfolio, I invite you to explore the depth of my expertise and the quality of solutions I bring to the table.</p>
+        Real Attend is a custom company attendance system with a custom and easy UI.
+        The app manages all the attendance. From this app employees and managers can sign their attendance, request pre-leave permission, and request late attendance permission.
+        With a custom calendar designed employees can easily check their monthly attendance. 
+        Also, the app offers the employees an easy way to deliver their reports through the app, the manager then can view those reports easily from its side in the app.
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating robust attendance systems that efficiently manage employee attendance, absence, vacations, and weekends.
-            My portfolio showcases a range of programming skills focused on building feature-rich applications.</p>
-            <p>With expertise in attendance registration, permission management, report generation, and an intuitive dashboard, I provide seamless solutions for both employees and managers.
-            By leveraging my services, businesses can enhance their attendance tracking, streamline permission workflows, and gain valuable insights into employee performance.</p>
         `,
         "ar-hint": `
             <p>نظام حضور فعَّال يشمل تسجيل الحضور، إدارة الإذونات، التقارير، ولوحة مراقبة مبسَّطة لتسهيل سير العمل وتحسين إدارة الأداء.</p>
@@ -123,24 +111,13 @@ const projects = [
             Elevate your luxury shopping experience with our feature-rich e-commerce app, offering seamless transactions, personalized product variations, and global accessibility.
         `,
         "summery": `
-        <p>I am a skilled developer with a strong track record in building e-commerce applications. My portfolio showcases my expertise in programming skills, particularly in creating feature-rich apps for online luxury shopping.</p>
-        <p>With a focus on delivering seamless user experiences, I specialize in developing e-commerce apps with essential features like online/offline carts, secure online payment systems, built-in wallets, product variations, and multi-country/multi-currency support.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I present my extensive experience in developing e-commerce applications that cater to a wide range of industries and markets.
-            I have a proven track record of creating feature-rich apps that provide seamless and immersive shopping experiences for users.</p>
-            <p>One area where I have excelled is in building e-commerce apps tailored for luxury brands and high-end shopping experiences.
-            My portfolio showcases projects where I have successfully implemented essential features that are crucial for luxury e-commerce.
-            These features include online/offline carts, allowing users to seamlessly add products to their carts even when they are offline.
-            I have also integrated secure online payment systems that ensure safe and convenient transactions for customers.
-            In addition, I have developed built-in wallet functionality that allows users to securely store their payment information for future purchases.
-            Furthermore, I have implemented product variation support, enabling users to select different options such as size, color, or material.</p>
-            <p>To address the global nature of e-commerce, I have extensive experience in developing applications with multi-country and multi-currency support.
-            This ensures that businesses can cater to customers from different regions, providing them with personalized and localized shopping experiences.</p>
-            <p>While my portfolio highlights my proficiency in developing luxury e-commerce applications, I also have a breadth of experience in building e-commerce apps for various industries and markets.
-            I bring a strong foundation of programming skills, combined with a keen understanding of user experience and business requirements, to deliver exceptional results.</p>
-            <p>I invite you to explore my portfolio to see examples of my work and the level of expertise I bring to e-commerce app development.
-            Whether you are a luxury brand or operate in a different sector, I am confident in my ability to create a high-quality, feature-rich e-commerce application that meets your specific needs and exceeds user expectations.</p>
+        Brandy One is a highly designed e-commerce app for luxury products. 
+        The app is designed to host luxury products. With the great feel of dark mode and the almost native performance, the app sounds like a luxury app that all those products are designed for. 
+        The app is designed with a built-in wallet that makes the shopping and payment experience a lot easier and more exciting. 
+        The app also supports multi-language to make the shopping experience easier and easier, and that is because the app is designed to host products. 
+        more than one country with more than one currency and language.
         `,
         "ar-full-description": `
             <p>مرحبًا بك في محفظتي الشخصية، حيث أعرض خبرتي الواسعة في تطوير تطبيقات التجارة الإلكترونية التي تلبي متطلبات مختلف الصناعات والأسواق. لدي سجل حافل في إنشاء تطبيقات غنية بالميزات توفر تجارب تسوق سلسة وشيقة للمستخدمين.</p>
@@ -223,14 +200,11 @@ const projects = [
         <p>Seamless e-commerce applications with essential features for convenient shopping experiences.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating feature-rich e-commerce applications. My portfolio showcases my programming skills in building applications with essential features for convenient and seamless shopping experiences.</p>
         `,
         "full-description": `
-        <p>Welcome to my developer portfolio, where I highlight my expertise in developing feature-rich e-commerce applications. With a strong focus on programming skills, I have created applications that cater to the requirements of customers seeking convenience and efficiency in their everyday shopping experiences.</p>
-        <p>One of the core features of my applications is the online cart functionality, enabling users to easily add products to their carts and proceed to checkout seamlessly. This simplifies the shopping process and enhances the overall user experience.</p>
-        <p>Moreover, my portfolio showcases my proficiency in developing e-commerce functionality, ensuring a secure and streamlined online shopping experience. From browsing products to making purchases, my applications prioritize user convenience and provide a hassle-free transaction process.</p>
-        <p>In addition to the fundamental e-commerce features, I integrate additional functionalities such as personalized recommendations, user reviews, and order tracking. These features contribute to an enhanced user experience, making it easier for customers to find the products they need and track their orders.</p>
-        <p>With a strong focus on user interface and user experience design, my applications offer a visually appealing and intuitive interface that facilitates easy navigation and product discovery. By prioritizing user convenience, I aim to create an engaging and satisfying shopping experience for customers.</p>
+        Sadan is a food app with a pretty easy-to-use UI that enables users to check popular restaurants and food, 
+        the app is designed to facilitate the food ordering and delivery process, you can check a wide list of restaurants, 
+        check your favorite food, and order it.
         `,
         "ar-hint": `
             <p>تطبيقات التجارة الإلكترونية السلسة لاحتياجات المنزل اليومية، تضم سلة شراء إلكترونية لتسهيل التسوق.</p>
@@ -307,43 +281,11 @@ const projects = [
         Elevate your fashion shopping experience with our e-commerce app, combining ready-made and tailor-made garments, a built-in wallet, and seamless online payments.
         `,
         "summery": `
-            <p>Black Point is a cutting-edge fashion app that reflects my programming expertise.
-            With seamless integration of ready-made and tailor-made garments, users can personalize their style effortlessly.
-            My skills shine through in the dynamic customization feature, enabling users to specify measurements, fabrics, and colors.
-            Secure payment integration ensures a safe transaction process, while the intuitive user interface enhances the browsing experience.
-            Real-time updates and personalized user profiles add to the app's appeal, showcasing my proficiency in backend development and database management.
-            Experience Black Point and witness the power of programming expertise in fashion customization.</p>      
         `,
         "full-description": `
-            <h4>Black Point: Showcasing Programming Expertise in Fashion Customization</h4>
-            Black Point is a cutting-edge fashion app that highlights my programming expertise and passion for delivering personalized experiences.
-            This innovative platform seamlessly integrates ready-made and tailor-made garments, allowing users to express their unique style.
-            As a programmer, I've meticulously crafted a feature-rich app that demonstrates my abilities in the following areas:
-            <ol>
-            <li>
-            Dynamic Customization: Through advanced dynamic forms, users can effortlessly personalize their garments.
-            My expertise in form design and data collection enables a seamless experience, empowering users to specify measurements, fabrics, colors, and more, resulting in truly bespoke fashion choices.
-            </li>
-            <li>
-            Secure Payment Integration: Black Point prioritizes user trust and safety.
-            With my expertise in payment gateway integration, I've seamlessly incorporated secure online payments, ensuring a smooth and reliable transaction process.
-            User data is protected using industry-standard security protocols, reflecting my commitment to data privacy.
-            </li>
-            <li>
-            Intuitive User Interface: Black Point's user-friendly interface showcases my attention to detail and design skills.
-            The visually appealing layout and intuitive navigation enhance the browsing experience, allowing users to effortlessly explore the extensive catalog of ready-made garments.
-            </li>
-            <li>
-            Real-Time Updates: Leveraging my backend development expertise, Black Point provides real-time order tracking and notifications.
-            Users stay informed about their order status, shipping details, and estimated delivery dates.
-            This feature emphasizes my ability to implement dynamic data updates and deliver an engaging user experience.
-            </li>
-            <li>
-            Seamless User Profiles: Black Point's personalized user profiles demonstrate my proficiency in database management.
-            Users can save their favorite items, measurements, and style preferences, allowing for tailored recommendations.
-            My robust data management ensures efficient retrieval and storage of user preferences.
-            </li>
-            </ol>
+        Black Point, is a customized fashion app created with custom UX and with high-level features that impressively improve the user shopping experience. 
+        To improve the e-commerce experience and customize it to our customers' needs, we improved the app, not only with online payment support but also with an online wallet to make the payment process a lot easier. 
+        But that’s not the end, We have also improved the app with a custom checkout process, in which, users can design their dresses with their ideas and sizes, so they can get the most improved fashion experience.
         `,
         "ar-hint": `
             <p>قم بتحسين تجربة التسوق الخاصة بالموضة مع تطبيق بلاك بوينت الذي يجمع بين الملابس الجاهزة والأزياء المصممة حسب الطلب، بمحفظة مدمجة ودفعات إلكترونية سلسة.</p>
@@ -424,14 +366,12 @@ const projects = [
             <p>Innovative e-commerce app "Entaji" for Saudi Arabia, featuring multi-user support, multi-language capability, online cart, wishlist, and a seller dashboard.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating innovative e-commerce solutions. My portfolio showcases my expertise in programming for Entaji, a leading Saudi Arabian e-commerce app with features such as multi-user support, multi-language capability, online cart, wishlist, and a seller dashboard.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I highlight my programming skills in developing cutting-edge e-commerce solutions. With a specific focus on Entaji, a prominent e-commerce app based in Saudi Arabia, my portfolio demonstrates my expertise in building robust and user-friendly applications tailored to the Saudi market.</p>
-            <p>At the core of Entaji is its ability to cater to a diverse user base. With multi-user support, the app allows individuals, families, and businesses to create personalized accounts and manage their online shopping experiences seamlessly. Furthermore, the app supports multiple languages, ensuring a localized experience for users across Saudi Arabia.</p>
-            <p>One of the standout features of Entaji is its online cart functionality, allowing users to easily add products, manage quantities, and proceed to checkout effortlessly. Additionally, the app provides an online wishlist feature, enabling users to save desired items for future purchases, enhancing their shopping convenience.</p>
-            <p>To empower sellers, Entaji offers a comprehensive seller dashboard. This dashboard provides sellers with valuable insights, such as sales performance, inventory management, and order tracking. With this intuitive interface, sellers can efficiently manage their products, streamline operations, and drive business growth.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating seamless and user-friendly experiences for both customers and sellers. By leveraging my programming skills, I have developed Entaji to be a reliable and feature-rich e-commerce platform that caters to the unique needs of the Saudi Arabian market.</p>
+        Entaji is an e-commerce app custom-designed for home food ordering. 
+        The app is designed to facilitate the user's journey of searching for good and healthy food. 
+        The app offers online payments to ensure zero human interaction during the delivery process. 
+        The app also supports sellers' accounts, so they can sign in to the app and manage their products and orders
         `,
         "ar-hint": `
             <p>موقع شخصي يعرض تطبيق إنتاجي للتجارة الإلكترونية في السعودية، يدعم عدة مستخدمين ولغات متعددة، ويتضمن سلة شراء عبر الإنترنت وقائمة رغبات الشراء ولوحة للبائعين.</p>
@@ -513,13 +453,9 @@ const projects = [
             <p>Innovative "Island Auto" app for online car services, featuring multi-language support, seamless map integration, and an online cart for hassle-free bookings.</p>
         `,
         "summery": `
-            <p>I am a skilled developer with a focus on creating innovative solutions for online car services. My portfolio showcases my programming skills for "Island Auto," an advanced app with features like multi-language support, seamless map integration, and an online cart.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I demonstrate my expertise in developing cutting-edge solutions for the online car services industry. With a specific focus on "Island Auto," an advanced app catering to car-related services, my portfolio highlights my programming skills and showcases the unique features of the app.</p>
-            <p>"Island Auto" is designed to provide a seamless user experience by offering multi-language support, allowing users from different regions to access the app in their preferred language. Additionally, the app seamlessly integrates with maps, enabling users to locate nearby car services and navigate to their desired destinations with ease.</p>
-            <p>Furthermore, the app features an online cart that empowers users to browse and select car services, make bookings, and complete online payments conveniently. This online cart functionality simplifies the process of accessing car services and enhances the overall user experience.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating user-centric experiences. By leveraging my programming skills, I have developed "Island Auto" to be a reliable and feature-rich app that revolutionizes the way users access and engage with car services.</p>
+        Island Auto is an easy-to-use application with a pretty simple UI that offers an easy-to-use interface to order garage services right from your place.
         `,
         "ar-hint": `
             <p>تطبيق "آيلاند أوتو" المبتكر لخدمات السيارات عبر الإنترنت، مع دعم عدة لغات، ودمج الخرائط بشكل سلس، وسلة شراء عبر الإنترنت لحجوزات مريحة.</p>
@@ -589,13 +525,12 @@ const projects = [
         <p>Powerful weather app with multi-language support, currency conversion, forecasts, and flight booking for seamless travel planning.</p>
         `,
         "summery": `
-        <p>Powerful weather app with multi-language support, currency conversion, forecasts, and flight booking for seamless travel planning.</p>
         `,
         "full-description": `
-        <p>Welcome to my developer portfolio, where I highlight my expertise in developing robust solutions for weather applications. I have dedicated my programming skills to building a feature-rich weather app that provides users with accurate and up-to-date weather information, as well as convenient travel planning features.</p>
-        <p>My weather app stands out with its comprehensive set of features. It offers multi-language support, allowing users from different regions to access weather information in their preferred language. Additionally, the app includes currency conversion functionality, enabling users to stay informed about exchange rates while planning their trips.</p>
-        <p>The app's weather forecasts provide accurate and reliable information, keeping users updated on current and future weather conditions. Moreover, the app integrates flight trip booking capabilities, allowing users to seamlessly plan their travel itineraries based on weather conditions and make reservations directly within the app.</p>
-        <p>Throughout my portfolio, you will witness my commitment to creating user-centric weather solutions. By leveraging my programming skills, I have developed a weather app that combines accurate forecasts, multi-language support, currency conversion, and flight booking capabilities to provide users with a comprehensive weather and travel planning experience.</p>
+        My Boarding is an easy, user-friendly UI app that helps users track the weather state throughout the day. 
+        Not only that, but it offers also a weather forecast for the weak. But the app is not designed only for this purpose. 
+        The app offers two more features. 
+        The first one is the ability to make real-time currency conversions and also a whole bunch of traveling agencies to facilitate the traveling process.
         `,
         "ar-hint": `
         <p>تطبيق الطقس الشخصي المتقدم "آيلاند أوتو" مع دعم عدة لغات، وتحويل العملات، وتوقعات الطقس، وحجز رحلات الطيران لتسهيل تجربة السفر.</p>
@@ -666,15 +601,12 @@ const projects = [
             <p>Innovative e-learning app with multi-language support, seamless payment integration, interactive video player, and engaging online courses with quizzes.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating innovative apps. My portfolio showcases my programming skills in developing feature-rich e-learning apps with multi-language support, seamless payment integration, a robust video player, and engaging online courses with quizzes.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I demonstrate my expertise in developing innovative apps across various domains. With a specific focus on e-learning app development, my portfolio highlights my programming skills in creating feature-rich apps that enhance the learning experience.</p>
-            <p>One of the key features of my e-learning apps is multi-language support, allowing users from different regions to access educational content in their preferred language. This inclusivity ensures a personalized and engaging learning experience for users worldwide.</p>
-            <p>Seamless payment integration is another standout feature in my apps. By incorporating popular payment methods like Apple Pay and Google Pay, I ensure a convenient and secure payment experience for users when accessing paid courses or additional learning resources.</p>
-            <p>A robust video player is an essential component of my e-learning apps. It enables smooth playback of educational videos, ensuring that users can engage with the content without interruptions. The video player also supports interactive features such as progress tracking, bookmarking, and playback controls for an enhanced learning experience.</p>
-            <p>My e-learning apps offer a wide range of online courses covering various subjects. These courses are carefully curated and designed to provide valuable knowledge and skills to learners of all levels. Additionally, interactive quizzes are incorporated within the courses to assess learners' understanding and reinforce their learning outcomes.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating user-centric apps. By leveraging my programming skills, I have developed apps that prioritize user experience, interactivity, and accessibility, making learning engaging, convenient, and effective.</p>
+        Submit is an e-learning app focused on students. 
+        Submit offers a custom UI/UX that targets students at all levels. 
+        Focused on that audience the app offers a custom structure for lessons, quizzes to practice every gained knowledge, and also both written and video lectures. 
+        Also, the app offers a direct chat with customer support to make contact faster and easier.
         `,
         "ar-hint": `
             <p>تطبيق تعليمي مبتكر مع دعم عدة لغات، ودمج Apple Pay و Google Pay، ومشغل فيديو قوي، ودورات تعليمية ممتعة مع اختبارات تفاعلية.</p>
@@ -751,15 +683,12 @@ const projects = [
             <p>Robust e-commerce app with multi-language support, seamless online payment, map integration, and convenient features for a streamlined shopping experience.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating robust apps. My portfolio showcases my programming skills in developing feature-rich e-commerce apps with multi-language support, seamless online payment integration, map integration, and convenient features like online cart and wishlist.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I demonstrate my expertise in developing powerful apps across various domains. With a focus on e-commerce app development, my portfolio highlights my programming skills in creating feature-rich apps that deliver seamless online shopping experiences.</p>
-            <p>One of the key features of my e-commerce apps is multi-language support, ensuring that users from different regions can access and navigate the app in their preferred language. This localization enhances user engagement and makes the app accessible to a wider audience.</p>
-            <p>Seamless online payment integration is crucial in e-commerce apps, and my portfolio demonstrates my ability to integrate secure and efficient payment gateways, allowing users to make transactions conveniently and confidently.</p>
-            <p>Map integration is another standout feature in my e-commerce apps. By incorporating maps, I provide users with the ability to locate nearby stores, track deliveries, and access personalized recommendations based on their location, enhancing their shopping experience.</p>
-            <p>Convenience features like online cart and wishlist are integral components of my e-commerce apps. The online cart allows users to add products, review their selections, and proceed to checkout seamlessly. The wishlist feature enables users to save products for future reference or purchase, promoting user engagement and facilitating personalized shopping experiences.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating user-centric apps. By leveraging my programming skills, I have developed apps that prioritize user experience, seamless online payment, map integration, multi-language support, and convenient features like online cart and wishlist.</p>
+        Gorders is a simple e-commerce app with a simple design, 
+        the main focus of the app is facilitating the process of buying goods from supermarkets, 
+        Gorders offers you the nearest supermarkets and groceries to shop from. 
+        With online payment gorders mage the daily needs goods a lot easier to pay.
         `,
         "ar-hint": `
             <p>تطبيق التجارة الإلكترونية المتكامل مع دعم عدة لغات، ودمج الدفع عبر الإنترنت، ودمج الخرائط، وميزات ملائمة لتجربة تسوق ميسرة.</p>
@@ -836,16 +765,12 @@ const projects = [
             <p>Cutting-edge real estate app with comprehensive property ads, interactive map integration, efficient seller dashboard, immersive video player, and multi-language support.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating innovative apps. My portfolio showcases my programming skills in developing feature-rich apps for various industries, including real estate. Discover my expertise in real estate app development with advanced features like real estate ads, map integration, seller dashboard, video player, and multi-language support.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I demonstrate my expertise in developing innovative apps across different domains. With a specific focus on real estate app development, my portfolio showcases my programming skills in creating feature-rich apps that cater to the unique needs of the real estate industry.</p>
-            <p>One of the key features of my real estate apps is the inclusion of comprehensive real estate ads. These apps provide users with a platform to explore and discover properties, view detailed listings, and access relevant information to make informed decisions.</p>
-            <p>Map integration is another essential feature that I incorporate into my real estate apps. By leveraging map technology, users can visualize property locations, explore nearby amenities, and gain valuable insights into the surrounding area, enhancing their property search experience.</p>
-            <p>To empower property sellers, my real estate apps include a dedicated seller dashboard. This dashboard allows sellers to manage their listings, track inquiries, and communicate with potential buyers, streamlining the selling process and maximizing efficiency.</p>
-            <p>I understand the significance of engaging visual content, and that's why I integrate a high-quality video player into my real estate apps. This feature enables users to experience virtual property tours, watch property videos, and get a realistic sense of the property, aiding in their decision-making process.</p>
-            <p>Recognizing the diverse user base, I prioritize multi-language support in my real estate apps. By offering multiple language options, users from different regions can access and navigate the app in their preferred language, ensuring a personalized and inclusive experience.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating user-centric apps that deliver exceptional experiences in the real estate domain. By leveraging my programming skills, I have developed real estate apps that prioritize advanced features such as real estate ads, seamless map integration, seller management tools, immersive video playback, and multi-language support.</p>
+        Aqarko is a real-estate app that facilitates the process for both the vendor and the person in need of getting the apartment. 
+        The app offers a highly dynamic map that makes the search for an apartment much easier. 
+        With the ability to add new ads for your apartment, every user can become a seller, 
+        which makes the process of selling and the acquiring process much easier for both sides.
         `,
         "ar-hint": `
             <p>تطبيق العقارات المبتكر مع إعلانات العقارات الشاملة، ودمج الخرائط، ولوحة التحكم للبائع، ومشغل الفيديو، ودعم العديد من اللغات.</p>
@@ -917,7 +842,7 @@ const projects = [
         "date": "2022-10-15",
     },
     {
-        "title": "Car way client",
+        "title": "Car way",
         "importance": 1,
         "hidden": false,
         "id": "car-way-client",
@@ -926,18 +851,14 @@ const projects = [
             <p>Dynamic transportation app with Google Maps integration, multi-language support, real-time updates, and convenient features for a seamless ride experience.</p>
         `,
         "summery": `
-            <p>I am a skilled developer specializing in creating dynamic applications. My portfolio showcases my programming skills in developing client applications similar to Uber and Careem. Explore my expertise in Google Maps integration, multi-language support, notifications, chat functionality, real-time tracking, ride history, route suggestions, and live traffic updates.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I showcase my expertise in developing dynamic client applications similar to Uber and Careem. With a focus on delivering seamless transportation experiences, my portfolio highlights my programming skills in creating feature-rich apps with advanced functionalities.</p>
-            <p>One of the key features of my applications is the integration of Google Maps. By leveraging this powerful mapping platform, users can easily navigate through interactive maps, find their current location, search for destinations, and receive accurate route suggestions for their rides.</p>
-            <p>To cater to a diverse user base, my applications support multiple languages. Users can select their preferred language, ensuring a localized and personalized experience.</p>
-            <p>Effective communication is vital in transportation apps, and that's why my portfolio includes features like notifications and chat functionality. Users receive timely updates about their rides, driver details, and payment confirmations. They can also communicate with drivers or support representatives through chat, ensuring smooth and efficient interactions.</p>
-            <p>Utilizing sockets, I enable real-time updates in my applications. Users can track their rides in real-time, monitor the movement of the allocated vehicle, and receive live status updates.</p>
-            <p>Managing ride history is another essential aspect of my applications. Users can view their previous rides, access detailed information, and review their past experiences.</p>
-            <p>To enhance the user experience, my applications offer route suggestions based on traffic conditions and user preferences. Users can choose the most efficient and convenient routes for their rides, saving time and ensuring a smooth journey.</p>
-            <p>Real-time traffic updates play a crucial role in transportation apps. By providing live traffic state information, my applications help users make informed decisions about their routes and estimated arrival times.</p>
-            <p>Throughout my portfolio, you will witness my commitment to creating client applications that prioritize user experience, seamless Google Maps integration, multi-language support, effective notifications, chat functionality, real-time tracking, ride history management, route suggestions, and live traffic updates.</p>      
+        Car Way is a high-performance app for transportation. 
+        Offering high performance and real-time location updates the app offers secure and easy transportation for all users. 
+        With Google Maps integrated into the app the user can easily choose his destination, choose the price he can afford, and get to his destination quickly by googles' preferred track/path. 
+        The app offers a pre-estimate time, cost, and way for its users to make transportation easier. 
+        Also, the app offers all the driver data handily so the user knows exactly who is gonna drive him to his destination. 
+        Also, the app offers a direct chat between the client and driver to ensure easy communication between both sides.
         `,
         "ar-hint": `
             <p>تطبيق نقل ديناميكي مع دمج Google Maps، ودعم العديد من اللغات، وتحديثات في الوقت الحقيقي، وميزات مريحة لتجربة رحلة سلسة.</p>
@@ -1021,7 +942,7 @@ const projects = [
         "date": "2023-02-09",
     },
     {
-        "title": "Car way driver",
+        "title": "Car Way Driver",
         "importance": 1,
         "hidden": false,
         "id": "car-way-driver",
@@ -1030,18 +951,13 @@ const projects = [
             <p>Elevate your driving experience with the "Car Way Driver" app - Google Maps integration, multi-language support, real-time car tracking, and route suggestions for seamless rides.</p>
         `,
         "summery": `
-            <p>Discover my developer portfolio showcasing my programming skills in building the "Car Way Driver" app, an application similar to Uber Captain. Explore features like Google Maps integration, multi-language support, real-time car tracking, notifications, chat functionality, ride booking, route suggestions, and live traffic updates.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I showcase my expertise in developing applications similar to Uber Captain. Dive into the "Car Way Driver" app, designed specifically for drivers looking for a seamless transportation experience.</p>
-            <p>The app offers a range of powerful features to enhance the driver's journey. With seamless Google Maps integration, drivers can easily navigate through interactive maps, find optimal routes, and ensure timely pickups and drop-offs for their passengers.</p>
-            <p>Supporting multiple languages, the app ensures a personalized experience for drivers worldwide, catering to diverse driver communities and enabling effective communication.</p>
-            <p>Through comprehensive notification systems, drivers receive real-time updates about ride requests, passenger details, and trip updates, ensuring smooth communication and efficient ride management.</p>
-            <p>Effective communication is vital, and the app includes chat functionality, enabling direct interaction between drivers and passengers. This feature allows drivers to address inquiries, provide updates, and deliver a personalized and seamless ride experience.</p>
-            <p>Utilizing advanced socket technology, the app enables real-time car tracking, allowing drivers to monitor their vehicle's location in real-time. This feature enhances safety, accuracy, and ensures efficient trip planning.</p>
-            <p>The app's history section provides drivers with access to past trip details, earnings, and ratings. This information empowers drivers to evaluate their performance, identify trends, and make informed decisions to enhance their service quality.</p>
-            <p>With a user-friendly interface, the app simplifies the ride booking process. Drivers can efficiently manage incoming ride requests, accept or decline rides, and maintain control over their availability, ensuring a seamless and convenient experience for both drivers and passengers.</p>
-            <p>To optimize the driving experience, the app offers route suggestions based on real-time traffic conditions and driver preferences. This feature helps drivers choose the most efficient and time-saving routes, maximizing their earning potential and ensuring a smooth and prompt ride experience.</p>
+        Car Way Driver is a friendly transportation app for drivers/captains. 
+        Offering high performance, low memory usage, real-time changes, and easy UI. 
+        Car Way Driver is a great choice for all drivers to work on, the app's main focus is to facilitate the actions that a driver may take in his normal working day, 
+        such as interactive map, route suggestions, incoming requests of near users, 
+        and a direct chat between the driver and the meant client to ensure easy communication between both
         `,
         'ar-hint': `
             <p>تطبيق "سائق Car Way" مع دمج خرائط Google، ودعم العديد من اللغات، وتتبع السيارات في الوقت الحقيقي، وتوفير المسارات المقترحة لرحلات سلسة.</p>
@@ -1134,16 +1050,10 @@ const projects = [
             <p>Discover educational institutions with ease using the app's seller dashboard, Google Maps integration, online payment, multi-language support, and push notifications.</p>
         `,
         "summery": `
-            <p>Discover my developer portfolio showcasing my programming skills in building an app that assists parents in finding schools, institutes, and other learning institutions. The app features a seller dashboard, Google Maps integration, online payment, multi-language support, and push notifications.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I highlight my expertise in developing an app dedicated to helping parents find schools, institutes, and various learning institutions for their children. With a focus on creating a user-friendly and informative platform, my portfolio showcases my programming skills in building applications that simplify the education search process.</p>
-            <p>The app features a comprehensive seller dashboard, enabling educational institutions to manage their profiles, update information, and showcase their offerings to potential parents. This dashboard empowers institutions to effectively market their services and connect with interested parents.</p>
-            <p>Google Maps integration is a crucial component of the app, providing an intuitive way for parents to locate and explore nearby schools and institutes. With interactive maps, parents can easily navigate through various educational options in their desired areas, ensuring convenience and accessibility.</p>
-            <p>To facilitate seamless transactions, the app includes online payment functionality. Parents can securely make payments for registration fees, tuition, and other educational expenses directly through the app, simplifying the financial aspect of enrolling their children in educational institutions.</p>
-            <p>Multi-language support ensures that the app caters to diverse communities and provides a personalized experience for users of different language backgrounds. Parents can access the app in their preferred language, making the search for educational institutions more inclusive and user-friendly.</p>
-            <p>Push notifications play a vital role in keeping parents informed and updated. The app sends timely notifications about school events, admission deadlines, important announcements, and other relevant information, ensuring that parents stay connected and well-informed throughout the education search process.</p>
-            <p>Through my developer portfolio, I showcase my meticulous attention to detail, user-centric design, and robust backend systems that are essential in building a successful educational app. With a focus on enhancing the educational journey for parents and their children, I strive to create applications that provide convenience, comprehensive information, and a seamless user experience.</p>
+        Dalel is a custom platform where all educational institutions can host their institutions' details
+        and other users can find it either on a map or on a custom page designed to showcase all the institutes' data and features.
         `,
         "ar-hint": `
             <p>اكتشف المؤسسات التعليمية بسهولة باستخدام لوحة التحكم للمعلنين، ودمج خرائط Google، وخدمة الدفع الإلكتروني، والدعم المتعدد للغات، وإشعارات الدفع الفورية.</p>
@@ -1212,13 +1122,33 @@ const projects = [
         "date": "2022-12-28",
     },
     {
-        "title": "First care",
+        "title": "First Care",
         "importance": 1,
-        "hidden": true,
+        "hidden": false,
         "id": "first-care",
         "filter": "app",
-        "description": `
-            Need to get a service for your home? First care is the best choice for you.
+        "hint": `
+            
+        `,
+        "summery": `
+            
+        `,
+        "full-description": `
+        First Care is a service app that offers home services for users. 
+        A service provider can register to the app with his professions and then check if there are users around him that need his service, 
+        if so he can send an offer to them and the user can accept his request or not. 
+        On the other hand, the client can choose the service he needs, add a description and images to describe the service, 
+        and facilitate the evaluation for the service provider, so he can estimate a time and a cost for the service, 
+        then wait for the service providers' offers.
+        `,
+        "ar-hint": `
+            
+        `,
+        "ar-summery": `
+            
+        `,
+        "ar-full-description": `
+            
         `,
         "features": `
         <br>
@@ -1267,15 +1197,11 @@ const projects = [
             <p>Discover a world of savings with the discount cards app, featuring exclusive deals, Google Maps integration, multi-language support, and secure online payment options.</p>
         `,
         "summery": `
-            <p>Explore my developer portfolio showcasing my programming skills in building a discount cards app. This app features discount cards, Google Maps integration, multi-language support, and secure online payment options.</p>
         `,
         "full-description": `
-            <p>Welcome to my developer portfolio, where I showcase my expertise in developing a discount cards app that brings convenience and savings to users. With a focus on creating seamless user experiences, my portfolio highlights my programming skills in building applications that provide value and enhance customer satisfaction.</p>
-            <p>The discount cards app offers a wide range of features, including discount cards from various merchants and businesses. Users can easily browse and select their preferred discount cards, unlocking exclusive deals and savings at their favorite establishments.</p>
-            <p>To enhance the user experience, the app integrates Google Maps, enabling users to locate nearby merchants offering discounts. This feature helps users find the best deals in their vicinity, saving both time and money.</p>
-            <p>Multi-language support is another essential feature of the app, catering to a diverse user base. Users can access the app in their preferred language, ensuring a personalized experience and effortless navigation.</p>
-            <p>The app also provides secure online payment options, allowing users to conveniently purchase discount cards and make payments through trusted payment gateways. This feature ensures a seamless and secure transaction process for users.</p>
-            <p>My developer portfolio showcases the meticulous attention to detail, user-friendly interfaces, and robust backend systems that are essential in developing a successful discount cards app. Through my programming skills, I strive to create applications that provide value, convenience, and a delightful user experience.</p>
+        Joud is one of the amazing apps that offers a super-friendly UI/UX. 
+        Joud is designed to find coupons for almost anything you need. With high attention to detail, 
+        companies can share their coupons on the app so other users can buy them or use them directly if it's for free.
         `,
         "ar-hint": `
             <p>اكتشف عالمًا من التوفير مع تطبيق بطاقات الخصم، الذي يتميز بالعروض الحصرية، دمج خرائط Google، دعم العديد من اللغات، وخيارات الدفع الآمنة عبر الإنترنت.</p>
@@ -1518,63 +1444,6 @@ const projects = [
         "date": "",
     },
     {
-        "title": "Omedu provider",
-        "importance": 1,
-        "hidden": false,
-        "id": "omedu-provider",
-        "filter": "app",
-        "hint": `
-            
-        `,
-        "summery": `
-            
-        `,
-        "full-description": `
-            
-        `,
-        "ar-hint": `
-            
-        `,
-        "ar-summery": `
-            
-        `,
-        "ar-full-description": `
-            
-        `,
-        "features": `
-        <br>
-        <em>App features</em>:
-        <ul>
-        </ul>
-        `,
-        "keyword": [
-        ],
-        "main-media-url": "assets/img/portfolio/omedu-provider/cover.png",
-        "media-url": [
-            "assets/img/portfolio/omedu-provider/cover.png",
-            "assets/img/portfolio/omedu-provider/example-1.png",
-            "assets/img/portfolio/omedu-provider/example-2.png",
-            "assets/img/portfolio/omedu-provider/example-3.png",
-            "assets/img/portfolio/omedu-provider/example-4.png",
-            "assets/img/portfolio/omedu-provider/example-5.png",
-            "assets/img/portfolio/omedu-provider/example-6.png",
-            "assets/img/portfolio/omedu-provider/example-7.png",
-            "assets/img/portfolio/omedu-provider/example-8.png",
-            "assets/img/portfolio/omedu-provider/Dribble show 2-three-screens.png",
-            "assets/img/portfolio/omedu-provider/Dribble show 14-three-screens.png",
-            "assets/img/portfolio/omedu-provider/Dribble show 11-three-screens.png",
-            "assets/img/portfolio/omedu-provider/Dribble show 8-random-screens.png",
-        ],
-        "category": "App development",
-        "client": "Khlij",
-        "app-links": {
-            "google-play": "",
-            "app-store": "",
-        },
-        "duration": "",
-        "date": "",
-    },
-    {
         "title": "Omedu",
         "importance": 1,
         "hidden": false,
@@ -1587,7 +1456,11 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Omedu is a complete educational institution platform that is highly designed to perfectly fit each and every educational institution's data.
+        Using custom forms and custom screens to display the institution data, each educational institution in Omedu has its own form and show style, 
+        so it can be shown in the prettiest possible way.
+        Omedu is not just an app to display data, Omedu is also a dashboard for institutions' owners to have a great experience with it. U
+        sing Omedu institutions owners can track the users' interaction with their institutes and keep them always up-to-date.
         `,
         "ar-hint": `
             
@@ -1609,18 +1482,31 @@ const projects = [
         "main-media-url": "assets/img/portfolio/omedu-client/cover.png",
         "media-url": [
             "assets/img/portfolio/omedu-client/cover.png",
+            "assets/img/portfolio/omedu-provider/cover.png",
             "assets/img/portfolio/omedu-client/example-1.png",
+            "assets/img/portfolio/omedu-provider/example-1.png",
             "assets/img/portfolio/omedu-client/example-2.png",
+            "assets/img/portfolio/omedu-provider/example-2.png",
             "assets/img/portfolio/omedu-client/example-3.png",
+            "assets/img/portfolio/omedu-provider/example-3.png",
             "assets/img/portfolio/omedu-client/example-4.png",
+            "assets/img/portfolio/omedu-provider/example-4.png",
             "assets/img/portfolio/omedu-client/example-5.png",
+            "assets/img/portfolio/omedu-provider/example-5.png",
             "assets/img/portfolio/omedu-client/example-6.png",
+            "assets/img/portfolio/omedu-provider/example-6.png",
             "assets/img/portfolio/omedu-client/example-7.png",
+            "assets/img/portfolio/omedu-provider/example-7.png",
             "assets/img/portfolio/omedu-client/example-8.png",
+            "assets/img/portfolio/omedu-provider/example-8.png",
             "assets/img/portfolio/omedu-client/Dribble show 2-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 2-three-screens.png",
             "assets/img/portfolio/omedu-client/Dribble show 14-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 14-three-screens.png",
             "assets/img/portfolio/omedu-client/Dribble show 11-three-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 11-three-screens.png",
             "assets/img/portfolio/omedu-client/Dribble show 8-random-screens.png",
+            "assets/img/portfolio/omedu-provider/Dribble show 8-random-screens.png",
         ],
         "category": "App development",
         "client": "Khlij",
@@ -1701,7 +1587,14 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Popeye is a multi-vendor app that supports customers, stores, and drivers. 
+        From the user's perspective, Popeye is a highly designed food delivery app, from which they can find, search, 
+        and order food so easily as it's nothing from all the restaurants around them. 
+        But from the perspective of the driver Popeye is his way to connect with all the restaurants around him, 
+        so he can receive orders from them and deliver them without any effort. 
+        When it comes to the store, on the other hand, Popeye is the new way to reach out to users around him. 
+        With the mini dashboard, offered by the app, the store can easily track its business status and daily earned money. 
+        The store, also, can check the incoming orders and change their status once they are ready to be delivered.
         `,
         "ar-hint": `
             
@@ -1758,7 +1651,12 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Qatar Home is a service app that offers home services for users. 
+        A service provider can register to the app with his professions and then check if there are users around him that need his service, 
+        if so he can send an offer to them and the user can accept his request or not. 
+        On the other hand, the client can choose the service he needs, add a description and images to describe the service, 
+        and facilitate the evaluation for the service provider, so he can estimate a time and a cost for the service, 
+        then wait for the service providers' offers.
         `,
         "ar-hint": `
             
@@ -1815,7 +1713,12 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Salonat is a high-level designed app for both mobile and tablet, 
+        the app is mainly designed to facilitate the process of getting a haircut and a new look with a bunch of services that the salons can offer through the app. 
+        With custom UI and animation, the app offers a high-quality interface and an amazing user experience. S
+        alonat helps you find the nearest store to get a haircut or even stores that offer haircuts from home. 
+        The app also supports sellers to sign in and benefit from its mini dashboard which makes the tracking of the business a lot easier. 
+        From this side of the app stores can manage their services, create new promo codes, add new branches, and track their orders' queue.
         `,
         "ar-hint": `
             
@@ -1942,7 +1845,9 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Super Eats is an e-commerce app that focuses on food products. 
+        Super Eats is a great app with a custom UI that is designed to help users find the best food they want with all the extras they need. 
+        Also, the app supports online payment to facilitate the payment process.
         `,
         "ar-hint": `
             
@@ -1999,7 +1904,10 @@ const projects = [
             
         `,
         "full-description": `
-            
+        Super Eats provider is a mini dashboard for all sellers who want to host their products on the Super Eats app. 
+        The app offers statistics for the store to keep tracking their business and an easy way to track the incoming orders, 
+        so they can offer the best service quality to their clients. 
+        from this app stores can manage their products to keep them always up-to-date.
         `,
         "ar-hint": `
             
