@@ -2,7 +2,7 @@ const projects = [
     {
         "title": "Real attend",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "real-attend",
         "filter": "app",
         "hint": `
@@ -190,7 +190,7 @@ const projects = [
     },
     {
         "title": "Sa-dan",
-        "hidden": false,
+        "hidden": true,
         "importance": 2,
         "id": "sa-dan",
         "filter": "app",
@@ -359,7 +359,7 @@ const projects = [
     {
         "title": "Entaji",
         "importance": 2,
-        "hidden": false,
+        "hidden": true,
         "id": "entaji",
         "filter": "app",
         "hint": `
@@ -446,7 +446,7 @@ const projects = [
     {
         "title": "Island auto",
         "importance": 2,
-        "hidden": false,
+        "hidden": true,
         "id": "island-auto",
         "filter": "app",
         "hint": `
@@ -518,7 +518,7 @@ const projects = [
     {
         "title": "My Boarding",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "my-boarding",
         "filter": "app",
         "hint": `
@@ -594,7 +594,7 @@ const projects = [
     {
         "title": "Submit",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "submit",
         "filter": "app",
         "hint": `
@@ -935,8 +935,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": null,
-            "app-store": null,
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.car_way_client",
+            "app-store": "https://apps.apple.com/us/app/car-way-client/id1590734846",
         },
         "duration": "month",
         "date": "2023-02-09",
@@ -1034,8 +1034,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": null,
-            "app-store": null,
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.car_way_driver",
+            "app-store": "https://apps.apple.com/us/app/car-way-captain/id1590659600",
         },
         "duration": "month",
         "date": "2023-02-09",
@@ -1043,7 +1043,7 @@ const projects = [
     {
         "title": "Dalel talimi",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "dalel-talimi",
         "filter": "app",
         "hint": `
@@ -1115,7 +1115,7 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": null,
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.dalil_taelim",
             "app-store": "https://apps.apple.com/eg/app/dalil-taelem/id1666825283",
         },
         "duration": "month",
@@ -1124,7 +1124,7 @@ const projects = [
     {
         "title": "First Care",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "first-care",
         "filter": "app",
         "hint": `
@@ -1190,7 +1190,7 @@ const projects = [
     {
         "title": "Joud",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "joud",
         "filter": "app",
         "hint": `
@@ -1275,7 +1275,7 @@ const projects = [
     {
         "title": "Costly",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "costly",
         "filter": "app",
         "hint": `
@@ -1323,8 +1323,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.costly",
+            "app-store": "https://apps.apple.com/us/app/costly/id6451327453",
         },
         "duration": "",
         "date": "",
@@ -1332,7 +1332,7 @@ const projects = [
     {
         "title": "Edustation",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "edustation-client",
         "filter": "app",
         "hint": `
@@ -1380,8 +1380,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.edu_station_client",
+            "app-store": "https://apps.apple.com/eg/app/edu-station/id6448482233",
         },
         "duration": "",
         "date": "",
@@ -1389,7 +1389,7 @@ const projects = [
     {
         "title": "Edustation provider",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "edustation-provider",
         "filter": "app",
         "hint": `
@@ -1437,8 +1437,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.edu_station_provider",
+            "app-store": "https://apps.apple.com/us/app/edu-station-provider/id6448481168",
         },
         "duration": "",
         "date": "",
@@ -1450,7 +1450,7 @@ const projects = [
         "id": "omedu-client",
         "filter": "app",
         "hint": `
-            
+        Omedu: Tailored Education Institution Platform - Customize your institution's data presentation and track user engagement effortlessly with Omedu's intuitive dashboard.
         `,
         "summery": `
             
@@ -1511,8 +1511,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.omedu",
+            "app-store": "https://apps.apple.com/us/app/omedu/id6450904389",
         },
         "duration": "",
         "date": "",
@@ -1520,7 +1520,7 @@ const projects = [
     {
         "title": "OT",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "ot",
         "filter": "app",
         "hint": `
@@ -1581,7 +1581,7 @@ const projects = [
         "id": "popeye",
         "filter": "app",
         "hint": `
-            
+        Popeye: The all-in-one platform for customers to order food, drivers to deliver effortlessly, and stores to connect with customers and manage their business in real-time.
         `,
         "summery": `
             
@@ -1632,8 +1632,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.popay",
+            "app-store": "https://apps.apple.com/us/app/popeye/id6450269406",
         },
         "duration": "",
         "date": "",
@@ -1641,7 +1641,7 @@ const projects = [
     {
         "title": "Qatar home",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "qatar-home",
         "filter": "app",
         "hint": `
@@ -1694,7 +1694,7 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
+            "google-play": "https://play.google.com/store/apps/details?id=maichel.khalij.qatar_home",
             "app-store": "",
         },
         "duration": "",
@@ -1707,7 +1707,7 @@ const projects = [
         "id": "salonat",
         "filter": "app",
         "hint": `
-            
+        Salonat: Your ultimate grooming companion, offering seamless appointment scheduling for users and a powerful dashboard for salon owners to manage services, promotions, and orders with ease.
         `,
         "summery": `
             
@@ -1769,8 +1769,8 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
-            "app-store": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.khalij.salonat",
+            "app-store": "https://apps.apple.com/us/app/salonat/id6460890829",
         },
         "duration": "",
         "date": "",
@@ -1778,7 +1778,7 @@ const projects = [
     {
         "title": "Shabab thanawy",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "shabab-thanawy",
         "filter": "app",
         "hint": `
@@ -1826,7 +1826,7 @@ const projects = [
         "category": "App development",
         "client": "Khlij",
         "app-links": {
-            "google-play": "",
+            "google-play": "https://play.google.com/store/apps/details?id=com.maichel_sameh.shabab_sanawy&pli=1",
             "app-store": "",
         },
         "duration": "",
@@ -1835,7 +1835,7 @@ const projects = [
     {
         "title": "Super eats",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "super-eats-client",
         "filter": "app",
         "hint": `
@@ -1894,7 +1894,7 @@ const projects = [
     {
         "title": "Super eats provider",
         "importance": 1,
-        "hidden": false,
+        "hidden": true,
         "id": "super-eats-provider",
         "filter": "app",
         "hint": `

@@ -1,5 +1,6 @@
 /**
-* Template Name: Lonely - v4.9.0
+* Template Name: Lonely
+* Updated: Sep 18 2023 with Bootstrap v5.3.2
 * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -200,19 +201,19 @@
   /**
    * Portfolio details slider
    */
-  // new Swiper('.portfolio-details-slider', {
-  //   speed: 400,
-  //   loop: true,
-  //   autoplay: {
-  //     delay: 5000,
-  //     disableOnInteraction: false
-  //   },
-  //   pagination: {
-  //     el: '.swiper-pagination',
-  //     type: 'bullets',
-  //     clickable: true
-  //   }
-  // });
+  new Swiper('.portfolio-details-slider', {
+    speed: 400,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    }
+  });
 
   /**
    * Skills animation
