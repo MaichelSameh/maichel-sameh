@@ -30,7 +30,7 @@
 
   // use wordwrap() if lines are longer than 70 characters
   $msg = wordwrap($msg,70);
-  
+
   // send email
   mail("maichel.sameh.contact@gmail.com",$_POST['subject'],$msg);
 
