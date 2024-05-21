@@ -1955,7 +1955,7 @@ const projects = [
 
 const testimonial = [
     {
-        "name": "Chiara",
+        "name": "Chiara Giordano",
         "testimonial": "Lavoriamo con Maichel da più di 6 mesi ed è per noi una risorsa preziosa. Puntuale, proattivo e con grandi capacità di problem solving. Il nostro progetto ha davvero preso un'altra velocità grazie a lui. Oltre ad essere super preparato da un punto di vista tecnico, Maichel è inoltre una persona davvero piacevole con la quale collaborare! 5+ stars!",
         "role": "Project Manager and UX-UI Designer",
         "avatar": "assets/img/testimonials/chiara.png",
