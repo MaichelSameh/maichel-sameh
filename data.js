@@ -1955,6 +1955,12 @@ const projects = [
 
 const testimonial = [
     {
+        "name": "Chiara",
+        "testimonial": "Lavoriamo con Maichel da più di 6 mesi ed è per noi una risorsa preziosa. Puntuale, proattivo e con grandi capacità di problem solving. Il nostro progetto ha davvero preso un'altra velocità grazie a lui. Oltre ad essere super preparato da un punto di vista tecnico, Maichel è inoltre una persona davvero piacevole con la quale collaborare! 5+ stars!",
+        "role": "Project Manager and UX-UI Designer",
+        "avatar": "assets/img/testimonials/chiara.png",
+    },
+    {
         "name": "Mohammed Alaa",
         "testimonial": "Maichel is awesome on technical level same as personal level too, Maichel is always cooperator and follow-up with you on every single details in your project with up-to-dated details on what is happening right now.",
         "role": "Software Engineer",
@@ -2040,24 +2046,8 @@ const languageLeveLText = {
 }
 
 const generalData = {
-    // "about": `
-    //     <p>Hey there, I'm Michael Sameh – your Flutter magician straight out of the vibrant city of Cairo, Egypt!</p>
-    //     <p>As a mid-level Flutter developer, I've been conjuring up mesmerizing mobile applications that leave users absolutely enchanted. But here's the exciting part – I'm not your run-of-the-mill developer! 🌟</p>
-
-    //     <p>You see, I've mastered the art of time management, effortlessly handling deadlines like a pro, all while being a university student! 🎓⏳ It's like juggling flaming hoops while riding a unicycle – thrilling and invigorating!</p>
-
-    //     <p>My portfolio reads like an epic adventure, with a diverse array of applications crafted for various companies and industries. From dynamic API-driven wonders that dance with real-time data to locally stored gems, my creations stand out with a magical touch! 💻💫</p>
-
-    //     <p>Oh, and I'm not just an expert on the frontend; I've delved into the mysteries of Firebase and NoSQL databases too! 🔥🔍 Crafting robust backends that can handle any challenge is my specialty – it's like building the foundations of a digital kingdom!</p>
-
-    //     <p>But beyond my love for coding, there's a deeper passion that fuels me. 🌟 I dream of using my knowledge and experience to help others turn their visions into reality. Whether you're an ambitious entrepreneur or a budding developer, count on me to be your trusted ally! 🌈🚀</p>
-
-    //     <p>Ready to embark on an extraordinary journey together? 🎉 The magic starts now! Don't miss this chance to collaborate and create digital marvels that leave a lasting mark on the world. 🌎🚀💫 So, let's connect, and let your imagination come to life with the touch of my Flutter wand! 🪄✨</p>
-
-    //     <p>Contact me now, and let's make some magic together! 📧
-    // `,
     "about": `
-        <p>Welcome to the world of Michael Sameh, an accomplished Flutter developer with a flair for creating captivating mobile applications. With meticulous attention to detail and a touch of creativity, I craft solutions that leave users spellbound.</p>
+        <p>Welcome to the world of Maichel Sameh, an accomplished Flutter developer with a flair for creating captivating mobile applications. With meticulous attention to detail and a touch of creativity, I craft solutions that leave users spellbound.</p>
         <p>As a mid-level Flutter developer, I pride myself on exceptional time management skills, enabling me to handle deadlines and project demands with ease and precision. Even as a student, I embrace challenges head-on, making every project a triumph of determination and skill.</p>
         <p>My portfolio showcases a diverse array of applications designed for various companies and industries. From dynamic API-integrated solutions harnessing real-time data to elegantly crafted locally stored apps, each project reflects my commitment to innovation and user-centric experiences.</p>
         <p>While my expertise lies in frontend development, I'm no stranger to backend technologies. Proficient in Firebase and NoSQL databases, I construct robust infrastructures that stand the test of time and ensure seamless functionality.</p>
