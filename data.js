@@ -1980,10 +1980,17 @@ const testimonial = [
         "testimonial": "Michael is one of the cleverest mobile app developer that I have ever seen. As a UI/UX Designer, I'm always concerned about developing the application interfaces just like the design without any changes in the elements design, spacing,  animation, etc... But Michael did the job very well!",
         "role": "UI/UX Designer",
     },
+    // {
+    //     "name": "Abdelrahman Abdallah",
+    //     "testimonial": "مهندس مايكل انت حقيقي من المبرمجين المتميزين القليلين جدا في المجال ودي شهاده قليله كمان عنك والله بالتوفيق",
+    //     "role": "مؤسس خليج للبرمجيات",
+    //     "hide": true,
+    // },
     {
-        "name": "Abdelrahman Abdallah",
-        "testimonial": "مهندس مايكل انت حقيقي من المبرمجين المتميزين القليلين جدا في المجال ودي شهاده قليله كمان عنك والله بالتوفيق",
-        "role": "مؤسس خليج للبرمجيات",
+        "name": "Mohammad Alessa",
+        "testimonial": "اولا سعيد جدا بمعرفتك والتعامل معك اخ مايكل شخص متمكن بعمله وفاهم العمل والمطلوب وصبور بالعمل وبالاضافة الى اقتراحاتك المفيدة للمشروع والتي اضفناها فعلا مشكور فعلا ومقدر على عملك ووقتك",
+        "role": "",
+        "avatar": "assets/img/testimonials/moammed-alessa.jpg",
     },
 ];
 
