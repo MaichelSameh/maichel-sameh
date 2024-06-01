@@ -26,7 +26,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style.css?v=1" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: Lonely - v4.9.0
@@ -37,7 +37,7 @@
 </head>
 
 <body>
-  <script src="./data.js"></script>
+  <script src="./data.js?v=1"></script>
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column align-items-center justify-content-center">
     <h1>Hi, I'm Maichel!</h1>
@@ -333,7 +333,6 @@
         <div class="row portfolio-container">
 
           <script>
-            console.log(projects.length);
             let sortedProjectsByImportance = projects.sort(
               function (objA, objB) {
                 return objA["importance"].toString().localeCompare(objB["importance"].toString());
